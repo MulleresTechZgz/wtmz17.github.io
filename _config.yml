@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Women Tech Makers Zaragoza 2017
+tagline:      11 de Noviembre
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Mulleres Tech
+  url:        https://github.com/MulleresTechZgz
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
