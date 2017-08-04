@@ -1,0 +1,126 @@
+<section id="list-sponsors" class="sponsors">
+  
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h2>Nuestos patrocinadores</h2>
+        <hr class="small">
+        <h3>PLATINUM</h3>
+        <hr class="small"/>
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+
+        {% for sponsor_platinum in site.sponsors_platinum %}
+
+            <div class="col-md-12 col-sm-6">
+            <div class="sponsor-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa {{ sponsor_platinum.image }} fa-stack-1x text-primary"></i>
+            </span>
+              <h4>
+                <strong>{{ sponsor_platinum.name }}</strong>
+              </h4>
+              <p>{{ sponsor_platinum.text }}</p>
+              <!--<a href="#" class="btn btn-light">Learn More</a>-->
+            </div>
+          </div>
+
+        {% endfor %}
+      </div>
+    </div>
+
+    
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        <hr class="small"/>
+        <h3>GOLD</h3>
+        <hr class="small"/>
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        {% for sponsor_gold in site.sponsors_gold %}
+
+            <div class="col-md-6 col-sm-6">
+            <div class="sponsor-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa {{ sponsor_gold.image }} fa-stack-1x text-primary"></i>
+            </span>
+              <h4>
+                <strong>{{ sponsor_gold.name }}</strong>
+              </h4>
+              <p>{{ sponsor_gold.text }}</p>
+              <!--<a href="#" class="btn btn-light">Learn More</a>-->
+            </div>
+          </div>
+
+        {% endfor %}
+      </div>
+    </div>
+    
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        <hr class="small"/>
+        <h3>SILVER</h3>
+        <hr class="small"/>
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        {% for sponsor in site.sponsors_silver %}
+
+            <div class="col-md-4 col-sm-6">
+            <div class="sponsor-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa {{ sponsor.image }} fa-stack-1x text-primary"></i>
+            </span>
+              <h4>
+                <strong>{{ sponsor.name }}</strong>
+              </h4>
+              <p>{{ sponsor.text }}</p>
+              <!--<a href="#" class="btn btn-light">Learn More</a>-->
+            </div>
+          </div>
+
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        <hr class="small"/>
+        <h3>OTROS</h3>
+        <hr class="small"/>
+      </div>
+    </div>
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        {% for sponsor in site.sponsors_others %}
+
+            <div class="col-md-3 col-sm-6">
+            <div class="sponsor-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa {{ sponsor.image }} fa-stack-1x text-primary"></i>
+            </span>
+              <h4>
+                <strong>{{ sponsor.name }}</strong>
+              </h4>
+              <p>{{ sponsor.text }}</p>
+              <!--<a href="#" class="btn btn-light">Learn More</a>-->
+            </div>
+          </div>
+
+        {% endfor %}
+        
+      </div>
+      
+    </div>
+
+  </div>
+<!-- /.container -->
+</section>

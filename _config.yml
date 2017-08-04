@@ -1,17 +1,171 @@
-# Setup
-title:        Women Tech Makers Zaragoza 2017
-tagline:      11 de Noviembre
-baseurl:      "https://MulleresTechZgz.github.io/wtmz17.github.io"
-paginate:     1
+# Site settings
+title: WTM Zaragoza 2017
+email: womentechmakerszgz@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
-# About/contact
-author:
-  name:       Mulleres Tech
-  url:        https://github.com/MulleresTechZgz
+# User setting
+owner:
+email: womentechmakerszgz@gmail.com
+facebook_username:
+twitter_username: WTMZaragoza
+github_username: MulleresTechZgz
+address:
+  - line: ETOPIA Centro de Arte y Tecnología
+  - line: Av. de la Ciudad de Soria, 8 (50003) Zaragoza
+  # Feel free to add more lines here 
+telephone:
+copyright:
 
-# Gems
-gems:
-  - jekyll-paginate
+# API settings
+google_api_key:
 
-#Others
+# Build settings
 markdown: kramdown
+theme: 
+
+
+#Introduction
+intro_event:
+
+#List for event info
+event_infos:
+  - title: ¿Qué es Women Techmakers?
+    content: Se trata de una iniciativa promovida a nivel global por Google para visibilizar a las mujeres en el ámbito de la tecnología.<br/><br/>Women Techmakers quiere crear una comunidad con visibilidad, generando recursos que impulsen la innovación y la participación de las mujeres en este campo.<br/><br/>Estos eventos están diseñados para promover la inclusión de las mujeres en la tecnología.
+    image: ipad.png
+  - title: ¿A quién está dirigido el evento?
+    content: Se trata de un evento abierto a cualquier persona interesada en el mundo de la tecnología.<br/><br/>Queremos abarcar diferentes temas como nuevas tecnologías, agile, comunicación, desarrollo web, UX o cualquier tema interesante del sector.<br/><br/>La asistencia al evento está abierta tanto a hombres como a mujeres, pero las ponentes serán únicamente mujeres, ya que uno de los objetivos es darles visibilidad así como favorecer un espacio seguro que incite la participación femenina.
+    image: dog.png
+  - title: ¿Dónde se ha celebrado hasta ahora?
+    content: • Barcelona<br/>• Logroño<br/>• Madrid<br/>• Málaga<br/>• Menorca<br/>• Reus<br/>• Salamanca<br/>• Tenerife<br/>• Valencia
+    image: phones.png
+  - title: Algunas cifras
+    content: Barcelona -> 9 ponentes<br/>Menorca -> 10 ponentes<br/>Tarragona -> 6 ponentes<br/>Salamanca -> 3 ponentes<br/>Valencia -> 13 ponentes
+    image: ipad.png
+  - title: WTM Madrid 2017
+    content: Consiguio mas de 33 ponentes.<br/><br/>El 60% de las ponentes dieron una charla por primera vez<br/><br/>Ampliaron el círculo de networking de muchas mujeres.<br/><br/>Ayudaron a las empresas a encontrar mujeres profesionales en el sector de la tecnología.<br/><br/>Tambien nos dieron el empujon para que este año organicemos Woman Techmakers Zaragoza.
+    image: dog.png
+
+#List for organizers
+organizers:
+  - name: Nombre Organizadora 1
+    text: Texto Organizadora 1
+    image: fa-cloud
+  - name: Nombre Organizadora 2
+    text: Texto Organizadora 2
+    image: fa-compass
+  - name: Nombre Organizadora 3
+    text: Texto Organizadora 3
+    image: fa-flask
+  - name: Nombre Organizadora 4
+    text: Texto Organizadora 4
+    image: fa-shield
+  - name: Nombre Organizadora 12
+    text: Texto Organizadora 12
+    image: fa-cloud
+
+
+#List for speakers
+speakers:
+  - name: Nombre Ponente 1
+    text: Texto Ponente 1
+    image: fa-cloud
+  - name: Nombre Ponente 2
+    text: Texto Ponente 2
+    image: fa-compass
+  - name: Nombre Ponente 3
+    text: Texto Ponente 3
+    image: fa-flask
+  - name: Nombre Ponente 4
+    text: Texto Ponente 4
+    image: fa-shield
+  - name: Nombre Ponente 12
+    text: Texto Ponente 12
+    image: fa-cloud
+  - name: Nombre Ponente 22
+    text: Texto Ponente 22
+    image: fa-compass
+  - name: Nombre Ponente 32
+    text: Texto Ponente 32
+    image: fa-flask
+  - name: Nombre Ponente 42
+    text: Texto Ponente 42
+    image: fa-shield
+  - name: Nombre Ponente 13
+    text: Texto Ponente 13
+    image: fa-cloud
+
+#List for sponsors
+sponsors_platinum:
+  - name: Nombre Patrocinador 1
+    text: Texto Patrocinador 1
+    image: fa-cloud
+  - name: Nombre Patrocinador 2
+    text: Texto Patrocinador 2
+    image: fa-compass
+  - name: Nombre Patrocinador 3
+    text: Texto Patrocinador 3
+    image: fa-flask
+  - name: Nombre Patrocinador 4
+    text: Texto Patrocinador 4
+    image: fa-shield
+
+sponsors_gold:
+  - name: Nombre Patrocinador 1
+    text: Texto Patrocinador 1
+    image: fa-cloud
+  - name: Nombre Patrocinador 2
+    text: Texto Patrocinador 2
+    image: fa-compass
+  - name: Nombre Patrocinador 3
+    text: Texto Patrocinador 3
+    image: fa-flask
+  - name: Nombre Patrocinador 4
+    text: Texto Patrocinador 4
+    image: fa-shield
+  - name: Nombre Patrocinador 12
+    text: Texto Patrocinador 12
+    image: fa-cloud
+
+sponsors_silver:
+  - name: Nombre Patrocinador 1
+    text: Texto Patrocinador 1
+    image: fa-cloud
+  - name: Nombre Patrocinador 2
+    text: Texto Patrocinador 2
+    image: fa-compass
+  - name: Nombre Patrocinador 3
+    text: Texto Patrocinador 3
+
+sponsors_others:
+  - name: Nombre Patrocinador 1
+    text: Texto Patrocinador 1
+    image: fa-cloud
+  - name: Nombre Patrocinador 2
+    text: Texto Patrocinador 2
+    image: fa-compass
+  - name: Nombre Patrocinador 3
+    text: Texto Patrocinador 3
+    image: fa-flask
+  - name: Nombre Patrocinador 4
+    text: Texto Patrocinador 4
+    image: fa-shield
+  - name: Nombre Patrocinador 12
+    text: Texto Patrocinador 12
+    image: fa-cloud
+  - name: Nombre Patrocinador 22
+    text: Texto Patrocinador 22
+    image: fa-compass
+  - name: Nombre Patrocinador 32
+    text: Texto Patrocinador 32
+    image: fa-flask
+  - name: Nombre Patrocinador 42
+    text: Texto Patrocinador 42
+    image: fa-shield
+  - name: Nombre Patrocinador 13
+    text: Texto Patrocinador 13
+    image: fa-cloud

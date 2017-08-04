@@ -1,0 +1,32 @@
+<section id="list-speakers" class="speakers">
+  
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h2>Nuestas ponentes</h2>
+        <hr class="small">
+        {% for speaker in site.speakers %}
+
+            <div class="col-md-3 col-sm-6">
+            <div class="speaker-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa {{ speaker.image }} fa-stack-1x text-primary"></i>
+            </span>
+              <h4>
+                <strong>{{ speaker.name }}</strong>
+              </h4>
+              <p>{{ speaker.text }}</p>
+              <a href="#" class="btn btn-light">Learn More</a>
+            </div>
+          </div>
+
+        {% endfor %}
+        
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+<!-- /.container -->
+</section>
