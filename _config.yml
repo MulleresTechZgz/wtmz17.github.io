@@ -38,7 +38,7 @@ event_infos:
     content: Se trata de una iniciativa promovida a nivel global por Google para visibilizar a las mujeres en el ámbito de la tecnología.<br/><br/>Women Techmakers quiere crear una comunidad con visibilidad, generando recursos que impulsen la innovación y la participación de las mujeres en este campo.<br/><br/>Estos eventos están diseñados para promover la inclusión de las mujeres en la tecnología.
     image: ipad.png
   - title: ¿A quién está dirigido el evento?
-    content: Se trata de un evento abierto a cualquier persona interesada en el mundo de la tecnología.<br/><br/>Queremos abarcar diferentes temas como nuevas tecnologías, agile, comunicación, desarrollo web, UX o cualquier tema interesante del sector.<br/><br/>La asistencia al evento está abierta tanto a hombres como a mujeres, pero las ponentes serán únicamente mujeres, ya que uno de los objetivos es darles visibilidad así como favorecer un espacio seguro que incite la participación femenina.
+    content: Se trata de un evento abierto a cualquier persona interesada en el mundo de la tecnología.<br/><br/>Queremos abarcar diferentes temas como nuevas tecnologías, agile, comunicación, desarrollo web, UX o cualquier tema interesante del sector.<br/><br/>La asistencia al evento está abierta tanto a hombres como a mujeres, pero las ponentes serán únicamente mujeres, ya que uno de los objetivos es darles visibilidad así como ofrecer ayuda y colaboración.
     image: dog.png
   - title: ¿Dónde se ha celebrado hasta ahora?
     content: • Barcelona<br/>• Logroño<br/>• Madrid<br/>• Málaga<br/>• Menorca<br/>• Reus<br/>• Salamanca<br/>• Tenerife<br/>• Valencia
@@ -71,101 +71,28 @@ organizers:
 
 #List for speakers
 speakers:
-  - name: Nombre Ponente 1
-    text: Texto Ponente 1
-    image: fa-cloud
-  - name: Nombre Ponente 2
-    text: Texto Ponente 2
-    image: fa-compass
-  - name: Nombre Ponente 3
-    text: Texto Ponente 3
-    image: fa-flask
-  - name: Nombre Ponente 4
-    text: Texto Ponente 4
-    image: fa-shield
-  - name: Nombre Ponente 12
-    text: Texto Ponente 12
-    image: fa-cloud
-  - name: Nombre Ponente 22
-    text: Texto Ponente 22
-    image: fa-compass
-  - name: Nombre Ponente 32
-    text: Texto Ponente 32
-    image: fa-flask
-  - name: Nombre Ponente 42
-    text: Texto Ponente 42
-    image: fa-shield
-  - name: Nombre Ponente 13
-    text: Texto Ponente 13
+  - name: Aparece aquí!
+    text: Aparece aquí!!
     image: fa-cloud
 
 #List for sponsors
 sponsors_platinum:
-  - name: Nombre Patrocinador 1
-    text: Texto Patrocinador 1
+  - name: Aparece aquí!!
+    text: Aparece aquí!!
     image: fa-cloud
-  - name: Nombre Patrocinador 2
-    text: Texto Patrocinador 2
-    image: fa-compass
-  - name: Nombre Patrocinador 3
-    text: Texto Patrocinador 3
-    image: fa-flask
-  - name: Nombre Patrocinador 4
-    text: Texto Patrocinador 4
-    image: fa-shield
 
 sponsors_gold:
-  - name: Nombre Patrocinador 1
-    text: Texto Patrocinador 1
-    image: fa-cloud
-  - name: Nombre Patrocinador 2
-    text: Texto Patrocinador 2
-    image: fa-compass
-  - name: Nombre Patrocinador 3
-    text: Texto Patrocinador 3
-    image: fa-flask
-  - name: Nombre Patrocinador 4
-    text: Texto Patrocinador 4
-    image: fa-shield
-  - name: Nombre Patrocinador 12
-    text: Texto Patrocinador 12
+  - name: Aparece aquí!!
+    text: Aparece aquí!!
     image: fa-cloud
 
 sponsors_silver:
-  - name: Nombre Patrocinador 1
-    text: Texto Patrocinador 1
+  - name: Aparece aquí!!
+    text: Aparece aquí!!
     image: fa-cloud
-  - name: Nombre Patrocinador 2
-    text: Texto Patrocinador 2
-    image: fa-compass
-  - name: Nombre Patrocinador 3
-    text: Texto Patrocinador 3
+
 
 sponsors_others:
-  - name: Nombre Patrocinador 1
-    text: Texto Patrocinador 1
-    image: fa-cloud
-  - name: Nombre Patrocinador 2
-    text: Texto Patrocinador 2
-    image: fa-compass
-  - name: Nombre Patrocinador 3
-    text: Texto Patrocinador 3
-    image: fa-flask
-  - name: Nombre Patrocinador 4
-    text: Texto Patrocinador 4
-    image: fa-shield
-  - name: Nombre Patrocinador 12
-    text: Texto Patrocinador 12
-    image: fa-cloud
-  - name: Nombre Patrocinador 22
-    text: Texto Patrocinador 22
-    image: fa-compass
-  - name: Nombre Patrocinador 32
-    text: Texto Patrocinador 32
-    image: fa-flask
-  - name: Nombre Patrocinador 42
-    text: Texto Patrocinador 42
-    image: fa-shield
-  - name: Nombre Patrocinador 13
-    text: Texto Patrocinador 13
+  - name: Aparece aquí!!
+    text: Aparece aquí!!
     image: fa-cloud
