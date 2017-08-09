@@ -310,7 +310,7 @@ footer {
     margin-bottom: 30px;
 }
 .bg-etopia {
-    background-image: url(../img/etopia.png);
+    background-image: url(../img/donde/etopia.png);
     background-color: #FFFFFF;
     background-size:100% auto;
     background-repeat: no-repeat;
@@ -319,7 +319,7 @@ footer {
 
 @media (max-width: 640px) and (min-width: 320px){
  .bg-etopia {
-    background-image: url(../img/etopia.png);
+    background-image: url(../img/donde/etopia.png);
     background-color: #FFFFFF;
     background-size:auto 100%;
     background-repeat: no-repeat;
