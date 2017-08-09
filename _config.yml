@@ -52,21 +52,46 @@ event_infos:
 
 #List for organizers
 organizers:
-  - name: Nombre Organizadora 1
-    text: Texto Organizadora 1
-    image: fa-cloud
-  - name: Nombre Organizadora 2
-    text: Texto Organizadora 2
-    image: fa-compass
-  - name: Nombre Organizadora 3
-    text: Texto Organizadora 3
-    image: fa-flask
-  - name: Nombre Organizadora 4
-    text: Texto Organizadora 4
-    image: fa-shield
-  - name: Nombre Organizadora 12
-    text: Texto Organizadora 12
-    image: fa-cloud
+  - name: Esther Borao
+    text: Texto presentación de Esther Borao
+    image: 
+    twitter_account: EstherBorao
+  - name: Miriam Durán
+    text: Texto presentación de Miriam Durán
+    image: 
+    twitter_account: miripi
+  - name: Cynthia Gálvez
+    text: Texto presentación de Cynthia Gálvez
+    image: 
+    twitter_account: icynthia
+  - name: Patricia Heredia
+    text: Texto presentación de Patricia Heredia
+    image: 
+    twitter_account: pherediagil
+  - name: Laura Lacarra
+    text: Texto presentación de Laura Lacarra
+    image: 
+    twitter_account: LauraLacarra
+  - name: Cristina Pérez
+    text: Texto presentación de Cristina Pérez
+    image: 
+    twitter_account: cristinapg
+  - name: Jessica Redrado
+    text: Texto presentación de Jessica Redrado
+    image: 
+    twitter_account: Jessi_Redrado
+  - name: Paloma Royo
+    text: Texto presentación de Paloma Royo
+    image:
+    twitter_account:
+  - name: Ana Sánchez
+    text: Texto presentación de Ana Sánchez
+    image: 
+    twitter_account: _Ana_Sanchez_
+  - name: Nieves Sancho
+    text: Texto presentación de Nieves Sancho
+    image: 
+    twitter_account: Nievesancho
 
 
 #List for speakers

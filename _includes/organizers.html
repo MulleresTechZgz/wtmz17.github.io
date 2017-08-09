@@ -11,13 +11,23 @@
             <div class="organizer-item">
               <span class="fa-stack fa-4x">
               <i class="fa fa-circle fa-stack-2x"></i>
-              <i class="fa {{ organizer.image }} fa-stack-1x text-primary"></i>
+
+              {% assign image_organizer = organizer.image | strip_newlines %}
+              {% assign twitter_organizer = organizer.twitter_account | strip_newlines %}
+              {% if image_organizer != ""  %}
+              <img src="{{ image_organizer }}" class="fa fa-stack-1x text-primary img-circle"/>
+              {% elsif twitter_organizer != "" %}
+              <img src="https://twitter.com/{{ organizer.twitter_account }}/profile_image?size=original" class="fa fa-stack-1x text-primary img-circle"/>
+              {% else %}
+              <i class="fa fa-user fa-stack-1x text-primary"></i>
+              {% endif %}
             </span>
               <h4>
                 <strong>{{ organizer.name }}</strong>
               </h4>
               <p>{{ organizer.text }}</p>
-              <a href="#" class="btn btn-light">Learn More</a>
+              <!--<a href="#" class="btn btn-light">Learn More</a>-->
+              <a href="https://twitter.com/{{ organizer.twitter_account }}"><i class="fa fa-twitter fa-fw fa-2x"></i></a>
             </div>
           </div>
           
