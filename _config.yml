@@ -54,31 +54,31 @@ event_infos:
 organizers:
   - name: Esther Borao
     text: Texto presentación de Esther Borao
-    image: 
+    image:
     twitter_account: EstherBorao
   - name: Miriam Durán
     text: Texto presentación de Miriam Durán
-    image: 
+    image:
     twitter_account: miripi
   - name: Cynthia Gálvez
     text: Texto presentación de Cynthia Gálvez
-    image: 
+    image:
     twitter_account: icynthia
   - name: Patricia Heredia
     text: Texto presentación de Patricia Heredia
-    image: 
+    image:
     twitter_account: pherediagil
   - name: Laura Lacarra
     text: Texto presentación de Laura Lacarra
-    image: 
+    image:
     twitter_account: LauraLacarra
   - name: Cristina Pérez
     text: Texto presentación de Cristina Pérez
-    image: 
+    image:
     twitter_account: cristinapg
   - name: Jessica Redrado
     text: Texto presentación de Jessica Redrado
-    image: 
+    image:
     twitter_account: Jessi_Redrado
   - name: Paloma Royo
     text: Texto presentación de Paloma Royo
@@ -86,11 +86,11 @@ organizers:
     twitter_account:
   - name: Ana Sánchez
     text: Texto presentación de Ana Sánchez
-    image: 
+    image:
     twitter_account: _Ana_Sanchez_
   - name: Nieves Sancho
     text: Texto presentación de Nieves Sancho
-    image: 
+    image:
     twitter_account: Nievesancho
 
 
