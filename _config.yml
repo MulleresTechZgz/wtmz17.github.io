@@ -35,19 +35,19 @@ intro_event:
 #List for event info
 event_infos:
   - title: ¿Qué es Women Techmakers?
-    content: Se trata de una iniciativa promovida a nivel global por Google para visibilizar a las mujeres en el ámbito de la tecnología.<br/><br/>Women Techmakers quiere crear una comunidad con visibilidad, generando recursos que impulsen la innovación y la participación de las mujeres en este campo.<br/><br/>Estos eventos están diseñados para promover la inclusión de las mujeres en la tecnología.
+    content: Se trata de una iniciativa promovida a nivel global por Google para <strong>visibilizar a las mujeres</strong> en el ámbito de la tecnología.<br/><br/>Women Techmakers quiere crear una comunidad con visibilidad, generando recursos que impulsen la innovación y la participación de las mujeres en este campo.<br/><br/>Estos eventos están diseñados para promover la inclusión de las mujeres en la tecnología.
     image: organizersmad.jpg
   - title: ¿A quién está dirigido el evento?
-    content: Se trata de un evento abierto a cualquier persona interesada en el mundo de la tecnología.<br/><br/>Queremos abarcar diferentes temas como nuevas tecnologías, agile, comunicación, desarrollo web, UX o cualquier tema interesante del sector.<br/><br/>La asistencia al evento está abierta tanto a hombres como a mujeres, pero las ponentes serán únicamente mujeres, ya que uno de los objetivos es darles visibilidad así como ofrecer ayuda y colaboración.
+    content: Se trata de un <strong>evento abierto</strong> a cualquier persona interesada en el mundo de la tecnología.<br/><br/>Queremos abarcar diferentes temas como <strong>nuevas tecnologías, agile, comunicación, desarrollo web, UX</strong> o cualquier tema interesante del sector.<br/><br/>La asistencia al evento está abierta tanto a hombres como a mujeres, pero las ponentes serán únicamente mujeres, ya que uno de los objetivos es darles visibilidad así como ofrecer ayuda y colaboración.
     image: audience.jpg
   - title: ¿Dónde se ha celebrado hasta ahora?
-    content: • Barcelona<br/>• Logroño<br/>• Madrid<br/>• Málaga<br/>• Menorca<br/>• Reus<br/>• Salamanca<br/>• Tenerife<br/>• Valencia
+    content: <ul class="wtm-inline-list"> <li><i class="fa fa-map-marker"></i> Barcelona</li> <li><i class="fa fa-map-marker"></i> Logroño</li> <li><i class="fa fa-map-marker"></i> Madrid</li> <li><i class="fa fa-map-marker"></i> Málaga</li> <li><i class="fa fa-map-marker"></i> Menorca</li> <li><i class="fa fa-map-marker"></i> Reus</li> <li><i class="fa fa-map-marker"></i> Salamanca</li> <li><i class="fa fa-map-marker"></i> Tenerife</li> <li><i class="fa fa-map-marker"></i> Valencia</li></ul>
     image: girs_at_wtm_mad.jpg
   - title: Algunas cifras
-    content: Barcelona -> 9 ponentes<br/>Menorca -> 10 ponentes<br/>Tarragona -> 6 ponentes<br/>Salamanca -> 3 ponentes<br/>Valencia -> 13 ponentes<br/>Madrid -> 33 ponentes
+    content: <span class="wtm-highlight">9</span> ponentes en Barcelona<br/> <span class="wtm-highlight">10</span> ponentes en Menorca<br/> <span class="wtm-highlight">6</span> ponentes en Tarragona<br/> <span class="wtm-highlight">3</span> ponentes en Salamanca<br/> <span class="wtm-highlight">13</span> ponentes en Valencia<br/> <span class="wtm-highlight">33</span> ponentes en Madrid
     image: chatting.jpg
   - title: WTM Madrid 2017
-    content: Consiguio mas de 33 ponentes.<br/><br/>El 60% de las ponentes dieron una charla por primera vez<br/><br/>Ampliaron el círculo de networking de muchas mujeres.<br/><br/>Ayudaron a las empresas a encontrar mujeres profesionales en el sector de la tecnología.<br/><br/>Tambien nos dieron el empujon para que este año organicemos Woman Techmakers Zaragoza.
+    content: Consiguio <strong>mas de 33 ponentes</strong>.<br/><br/>El 60% de las ponentes dieron una charla por primera vez<br/><br/>Ampliaron el círculo de networking de muchas mujeres.<br/><br/>Ayudaron a las empresas a <strong>encontrar mujeres profesionales</strong> en el sector de la tecnología.<br/><br/>Tambien nos dieron el empujon para que este año organicemos Woman Techmakers Zaragoza.
     image: speakers.jpg
 
 #List for organizers
