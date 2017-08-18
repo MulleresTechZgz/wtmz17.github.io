@@ -36,16 +36,16 @@ intro_event:
 event_infos:
   - title: ¿Qué es Women Techmakers?
     content: Se trata de una iniciativa promovida a nivel global por Google para <strong>visibilizar a las mujeres</strong> en el ámbito de la tecnología.<br/><br/>Women Techmakers quiere crear una comunidad con visibilidad, generando recursos que impulsen la innovación y la participación de las mujeres en este campo.<br/>
-    image: img/logo_wtm/wtm_zgz_1_nombre.png
+    image: img/services/organizersmad.jpg
   - title: ¿A quién está dirigido el evento?
     content: Se trata de un <strong>evento abierto</strong> a cualquier persona interesada en el mundo de la tecnología.<br/><br/>Queremos abarcar diferentes temas como <strong>nuevas tecnologías, agile, comunicación, desarrollo web, UX</strong> o cualquier tema interesante del sector.<br/><br/>La asistencia al evento está abierta tanto a hombres como a mujeres, pero las ponentes serán únicamente mujeres, ya que uno de los objetivos es darles visibilidad así como ofrecer ayuda y colaboración.
-    image: img/imgs_dossier/computer_3.jpg
+    image: img/services/audience.jpg
   - title: ¿Dónde se ha celebrado hasta ahora?
     content: <ul class="wtm-inline-list"> <li><i class="fa fa-map-marker"></i> Barcelona</li> <li><i class="fa fa-map-marker"></i> Logroño</li> <li><i class="fa fa-map-marker"></i> Madrid</li> <li><i class="fa fa-map-marker"></i> Málaga</li> <li><i class="fa fa-map-marker"></i> Menorca</li> <li><i class="fa fa-map-marker"></i> Reus</li> <li><i class="fa fa-map-marker"></i> Salamanca</li> <li><i class="fa fa-map-marker"></i> Tenerife</li> <li><i class="fa fa-map-marker"></i> Valencia</li></ul>
-    image: img/imgs_dossier/computer_2.jpg
+    image: img/services/girs_at_wtm_mad.jpg
   - title: Algunas cifras
     content: <span class="wtm-highlight">9</span> ponentes en Barcelona<br/> <span class="wtm-highlight">10</span> ponentes en Menorca<br/> <span class="wtm-highlight">6</span> ponentes en Tarragona<br/> <span class="wtm-highlight">3</span> ponentes en Salamanca<br/> <span class="wtm-highlight">13</span> ponentes en Valencia<br/> <span class="wtm-highlight">33</span> ponentes en Madrid
-    image: img/imgs_dossier/utils.jpg
+    image: img/services/chatting.jpg
   - title: WTM Madrid 2017
     content: Consiguió <strong>más de 33 ponentes</strong>.<br/><br/>El 60% de las ponentes dieron una charla por primera vez.<br/><br/>Ampliaron el círculo de networking de muchas mujeres.<br/><br/>Ayudaron a las empresas a <strong>encontrar mujeres profesionales</strong> en el sector de la tecnología.<br/><br/>También nos dieron el empujón para que este año organicemos Women Techmakers Zaragoza.
     image: img/services/speakers.jpg
