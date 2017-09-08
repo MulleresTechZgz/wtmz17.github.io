@@ -21,6 +21,9 @@ address:
 telephone:
 copyright:
 
+# Timezone
+timezone: Europe/Madrid
+
 # API settings
 google_api_key:
 
@@ -28,6 +31,8 @@ google_api_key:
 markdown: kramdown
 theme: 
 
+#Dates
+end_c4p: 10/09/2017 23:59:59
 
 #Introduction
 intro_event:
@@ -59,43 +64,52 @@ organizers:
     text: 
     image:
     twitter_account: EstherBorao
+    linkedin_account: 
   - name: Miriam Durán
     text: 
     image:
     twitter_account: miripi
+    linkedin_account: 
   - name: Cynthia Gálvez
     text: 
     image:
     twitter_account: icynthia
+    linkedin_account: 
   - name: Patricia Heredia
     text: 
     image:
     twitter_account: pherediagil
+    linkedin_account: 
   - name: Laura Lacarra
     text: 
     image:
     twitter_account: LauraLacarra
+    linkedin_account: 
   - name: Cristina Pérez
     text: 
     image:
     twitter_account: cristinapg
+    linkedin_account: 
   - name: Jessica Redrado
     text: 
     image:
     twitter_account: Jessi_Redrado
+    linkedin_account: jessica-redrado-martinez
   - name: Paloma Royo
     text: 
     image:
     twitter_account: plmrc_
+    linkedin_account: 
   - name: Ana Sánchez
     text: 
     image: img/organizadoras/ana_sanchez.jpg
     twitter_account: _Ana_Sanchez_
+    linkedin_account: anasanchezalvarez
   - name: Nieves Sancho
     text: 
     image:
     twitter_account: Nievesancho
-
+    linkedin_account: 
 
 #List for speakers
 speakers:

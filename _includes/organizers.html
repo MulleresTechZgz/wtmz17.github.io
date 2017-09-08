@@ -14,6 +14,8 @@
 
                 {% assign image_organizer = organizer.image | strip_newlines %}
                 {% assign twitter_organizer = organizer.twitter_account | strip_newlines %}
+                {% assign linkedin_organizer = organizer.linkedin_account | strip_newlines %}
+
                 {% if image_organizer != ""  %}
                 <img src="{{ image_organizer }}" class="fa fa-stack-1x text-primary img-circle"/>
                 {% elsif twitter_organizer != "" %}
@@ -28,7 +30,12 @@
                 </h4>
                 <p>{{ organizer.text }}</p>
                 <!--<a href="#" class="btn btn-light">Learn More</a>-->
-                <a href="https://twitter.com/{{ organizer.twitter_account }}"><i class="fa fa-twitter fa-fw fa-2x"></i></a>
+                {% if twitter_organizer != ""  %}
+                <a href="https://twitter.com/{{ organizer.twitter_account }}" target="_blank"><i class="fa fa-twitter fa-fw fa-2x"></i></a>
+                {% endif %}
+                {% if linkedin_organizer != ""  %}
+                <a href="https://www.linkedin.com/in/{{ organizer.linkedin_account }}" target="_blank"><i class="fa fa-linkedin fa-fw fa-2x"></i></a>
+                {% endif %}
               </div>
             </div>
             

@@ -289,8 +289,9 @@ footer {
 
 .section-heading-spacer {
     float: left;
-    width: 200px;
-    border-top: 3px solid #e7e7e7;
+    /*width: 200px;
+    border-top: 3px solid #e7e7e7;*/
+    width: 140px;
 }
 
 .lead {
@@ -366,7 +367,8 @@ footer {
 }
 
 .section-heading-spacer {
-    border-top: 3px solid #00bfa5;
+    /*border-top: 3px solid #00bfa5;*/
+    border-top: 8px solid #00bfa5;
 }
 
 /* Backgrounds */
