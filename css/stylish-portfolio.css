@@ -328,6 +328,12 @@ footer {
 }   
     }
 
+/* Tickets */
+
+.tickets {
+    padding: 50px 0;
+}
+
 /* Countdown */
 .countdown {
     display: table;
@@ -413,6 +419,10 @@ footer {
 
 .bg-grey {
     background: #fafafa;
+}
+
+.bg-blue {
+    background: rgba(66, 133, 244, .1);
 }
 
 /* Fonts */
@@ -527,6 +537,10 @@ ul i {
 }
 
 /* Code of conduct */
+.code_conduct h2, .code_conduct p, .code_conduct a {
+    color: #333;
+}
+
 #arrow_code_conduct {
     fill: #00bfa5;
     max-width: 100px;
