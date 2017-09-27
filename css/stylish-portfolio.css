@@ -553,3 +553,19 @@ ul i {
 .sources-code-conduct p {
     font-size: 14px !important;
 }
+
+/* FONT AWESOME*/
+.fa-10x {
+    font-size: 10em;
+    vertical-align: middle;
+}
+
+.fa-8x {
+    font-size: 8em;
+    vertical-align: middle;
+}
+
+.fa-6x {
+    font-size: 6em;
+    vertical-align: middle;
+}
