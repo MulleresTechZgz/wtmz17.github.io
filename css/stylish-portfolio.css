@@ -265,6 +265,11 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.sponsor-links {
+    background: rgba(66, 133, 244, .1);
+    padding: 10px 0;
+}
+
 /* Footer */
 
 footer {
@@ -568,4 +573,44 @@ ul i {
 .fa-6x {
     font-size: 6em;
     vertical-align: middle;
+}
+
+/* Ribbon */
+.ribbon {
+    margin: 0 auto 10px;
+    line-height: 34px;
+    position: relative;
+    cursor: pointer;
+    user-select: none;
+    outline:none !important;
+    width: 25%;
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+    padding: 5px 0;
+}
+
+.ribbon:before, .ribbon:after {
+  content: '';
+  position: absolute;
+  height: 0;
+  width: 0;
+  border-style: solid;
+  border-width: 0;
+  outline:none;
+}
+
+.ribbon:before, .ribbon:after {
+  top: 15px;
+  z-index: -10;
+}
+.ribbon:before {
+      border-color: #2e6da4 #2e6da4 #2e6da4 transparent;
+      left: -25px;
+      border-width: 17px;
+}
+.ribbon:after {
+  border-color: #2e6da4 transparent #2e6da4 #2e6da4;
+  right: -25px;
+  border-width: 17px;
 }
