@@ -323,6 +323,25 @@ hr.small {
     padding: 10px !important;
 }
 
+@media(max-width:768px) {
+    .sponsor-wrapper {
+        width: 33%;
+    }
+    .sponsor-md .sponsor-wrapper{
+        width: 48%;
+    }
+
+    .sponsor-lg .sponsor-wrapper{
+        width: 100%;
+    }  
+}
+
+@media(max-width:550px) {
+    .sponsor-wrapper {
+        width: 100%!important;
+    } 
+}
+
 /* Footer */
 
 footer {
@@ -710,5 +729,11 @@ ul i {
 @media(max-width:768px) {
     .ribbon {
        width: 50%;
+    }
+}
+
+@media(max-width:375px) {
+    .ribbon {
+       width: 80%;
     }
 }
