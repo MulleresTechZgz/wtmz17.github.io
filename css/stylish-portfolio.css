@@ -261,10 +261,31 @@ hr.small {
     position: relative;
 }
 
+.sponsor-wrapper {
+    display: inline-block;
+    padding: 0 1%;
+    vertical-align: top;
+    width: 24%;
+}
+
+.sponsor-md .sponsor-wrapper{
+    width: 33%;
+}
+
+.sponsor-lg .sponsor-wrapper{
+    width: 48%;
+}
+
 .sponsor-item {
     border: 2px solid rgba(66, 133, 244, .1);
+    display: inline-block;
     margin-bottom: 30px;
     margin-top: 10px;
+    width: 100%;
+}
+
+.sponsor-xs .sponsor-item{
+    border: 2px solid rgba(71, 124, 171, .1);
 }
 
 .sponsor-md .sponsor-item{
@@ -278,6 +299,10 @@ hr.small {
 .sponsor-media {
     background: rgba(66, 133, 244, .1);
     padding: 10px 0 5px;
+}
+
+.sponsor-xs .sponsor-media{
+    background: rgba(71, 124, 171, .1);
 }
 
 .sponsor-md .sponsor-media{
@@ -631,6 +656,19 @@ ul i {
   border-color: #2e6da4 transparent #2e6da4 #2e6da4;
   right: -25px;
   border-width: 17px;
+}
+
+.ribbon-xs {
+    background-color: #477cab;
+    font-size: 24px;
+}
+
+.ribbon-xs:before  {
+    border-color: #395f82 #395f82 #395f82 transparent;
+}
+
+.ribbon-xs:after {
+  border-color: #395f82 transparent #395f82 #395f82;
 }
 
 .ribbon-md {
