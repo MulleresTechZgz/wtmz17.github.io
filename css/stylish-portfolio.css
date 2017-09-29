@@ -264,7 +264,7 @@ hr.small {
 .sponsor-wrapper {
     display: inline-block;
     padding: 0 1%;
-    vertical-align: top;
+    vertical-align: middle;
     width: 24%;
 }
 
@@ -311,6 +311,16 @@ hr.small {
 
 .sponsor-lg .sponsor-media{
     background: rgba(66, 184, 202, .1);
+}
+
+.sponsor-item span {
+    max-width: 100% !important;
+    /*height: -webkit-fill-available !important;*/
+}
+
+.sponsor-item span img {
+    max-width: 100% !important;
+    padding: 10px !important;
 }
 
 /* Footer */
