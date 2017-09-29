@@ -131,11 +131,6 @@ sponsors_gold:
     image: img/patrocinadores/gold/hiberus_cuadrado.png
     web: https://www.hiberus.com/hiberus-tecnologia
     twitter: hiberus
-  - name: Cuentica
-    text: 
-    image: img/patrocinadores/platinum/cuentica.png
-    web: https://cuentica.com/
-    twitter: cuentica
 
 sponsors_silver:
   - name: Usit Development
