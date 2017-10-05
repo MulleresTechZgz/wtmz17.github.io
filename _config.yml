@@ -143,6 +143,11 @@ sponsors_silver:
     image: img/patrocinadores/silver/usit.png
     web: http://usitdevelopment.com/
     twitter: UsitDev
+  - name: Asseco Spain
+    text: 
+    image: img/patrocinadores/silver/asseco_spain.png
+    web: https://es.asseco.com/
+    twitter: assecoESP
 
 sponsors_others:
   - name: Ambar
