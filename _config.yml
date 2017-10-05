@@ -131,6 +131,11 @@ sponsors_gold:
     image: img/patrocinadores/gold/hiberus_cuadrado.png
     web: https://www.hiberus.com/hiberus-tecnologia
     twitter: hiberus
+  - name: Polux Solutions
+    text: 
+    image: img/patrocinadores/gold/polux_cuadrado.jpg
+    web: http://www.polux-solutions.com/Index.aspx
+    twitter: Polux_Solutions
 
 sponsors_silver:
   - name: Usit Development
@@ -145,3 +150,13 @@ sponsors_others:
     image: img/patrocinadores/colaboradores/ambar.png
     web: https://ambar.com
     twitter: cervezasambar
+  - name: Semmantica
+    text: 
+    image: img/patrocinadores/colaboradores/semmantica.png
+    web: http://www.semmantica.com/
+    twitter: semmantica
+  - name: Ticketea
+    text: 
+    image: img/patrocinadores/colaboradores/ticketea.png
+    web: https://www.ticketea.com/
+    twitter: ticketea
