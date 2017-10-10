@@ -121,21 +121,36 @@ speakers:
 sponsors_platinum:
   - name: Torresburriel Estudio
     text: 
-    image: img/patrocinadores/platinum/torresburriel_cuadrado.png
+    image: img/patrocinadores/platinum/torresburriel.png
     web: http://www.torresburriel.com/
     twitter: uxTBE
+  - name: Etopia
+    text: 
+    image: img/patrocinadores/platinum/fzc.png
+    web: http://www.zaragoza.es/ciudad/etopia/
+    twitter: etopia_
+  - name: Intelygenz
+    text: 
+    image: img/patrocinadores/platinum/intelygenz.png
+    web: http://www.intelygenz.es/
+    twitter: Intelygenz
 
 sponsors_gold:
   - name: Hiberus Tecnologia
     text: 
-    image: img/patrocinadores/gold/hiberus_cuadrado.png
+    image: img/patrocinadores/gold/hiberus.png
     web: https://www.hiberus.com/hiberus-tecnologia
     twitter: hiberus
   - name: Polux Solutions
     text: 
-    image: img/patrocinadores/gold/polux_cuadrado.jpg
+    image: img/patrocinadores/gold/polux.jpg
     web: http://www.polux-solutions.com/Index.aspx
     twitter: Polux_Solutions
+  - name: Mujeres Tech
+    text: 
+    image: img/patrocinadores/gold/mujeres_tech.png
+    web: https://mujerestech.com/
+    twitter: MujeresTech
 
 sponsors_silver:
   - name: Usit Development
@@ -165,3 +180,13 @@ sponsors_others:
     image: img/patrocinadores/colaboradores/ticketea.png
     web: https://www.ticketea.com/
     twitter: ticketea
+  - name: Donuts
+    text: 
+    image: img/patrocinadores/colaboradores/donuts.png
+    web: http://donuts.es/
+    twitter: Donuts_es
+  #- name: Eboca
+  #  text: 
+  #  image: img/patrocinadores/colaboradores/eboca.png
+  #  web: https://www.eboca.com/
+  #  twitter: EbocaVending
