@@ -136,11 +136,11 @@ sponsors_platinum:
     twitter: Intelygenz
 
 sponsors_gold:
-  - name: Hiberus Tecnologia
-    text: 
-    image: img/patrocinadores/gold/hiberus.png
-    web: https://www.hiberus.com/hiberus-tecnologia
-    twitter: hiberus
+  #- name: Hiberus Tecnologia
+  #  text: 
+  #  image: img/patrocinadores/gold/hiberus.png
+  #  web: https://www.hiberus.com/hiberus-tecnologia
+  #  twitter: hiberus
   - name: Polux Solutions
     text: 
     image: img/patrocinadores/gold/polux.jpg
