@@ -134,6 +134,16 @@ sponsors_platinum:
     image: img/patrocinadores/platinum/intelygenz.png
     web: http://www.intelygenz.es/
     twitter: Intelygenz
+  - name: Adidas
+    text: 
+    image: img/patrocinadores/platinum/adidas.png
+    web: https://www.adidas.es/
+    twitter: adidas_ES
+  - name: Central de Reservas
+    text: 
+    image: img/patrocinadores/platinum/central_reservas.png
+    web: https://www.centraldereservas.com/
+    twitter: centralreservas
 
 sponsors_gold:
   #- name: Hiberus Tecnologia
@@ -151,6 +161,11 @@ sponsors_gold:
     image: img/patrocinadores/gold/mujeres_tech.png
     web: https://mujerestech.com/
     twitter: MujeresTech
+  - name: Cuéntica
+    text: 
+    image: img/patrocinadores/gold/cuentica.png
+    web: https://cuentica.com/
+    twitter: cuentica
 
 sponsors_silver:
   - name: Usit Development
@@ -185,8 +200,8 @@ sponsors_others:
     image: img/patrocinadores/colaboradores/donuts.png
     web: http://donuts.es/
     twitter: Donuts_es
-  #- name: Eboca
-  #  text: 
-  #  image: img/patrocinadores/colaboradores/eboca.png
-  #  web: https://www.eboca.com/
-  #  twitter: EbocaVending
+  - name: Eboca
+    text: 
+    image: img/patrocinadores/colaboradores/eboca.png
+    web: https://www.eboca.com/
+    twitter: EbocaVending
