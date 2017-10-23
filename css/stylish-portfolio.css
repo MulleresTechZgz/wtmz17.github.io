@@ -246,6 +246,97 @@ hr.small {
 
 .speaker-item {
     margin-bottom: 30px;
+    min-height: 160px;
+}
+
+.speaker-item a {
+    color: #4285f4;
+    display: block;
+    text-decoration: inherit;
+}
+
+.speaker-item a:focus {
+    outline: none;
+}
+
+.speaker-item a span {
+    background: white;
+    border: 3px solid transparent;
+    border-radius: 1em;
+    transition: .2s ease-in border;
+}
+
+.speaker-item a:hover span {
+    border: 3px solid #4285f4;
+    transition: .2s ease-in border;
+}
+
+.speaker-item .fa-stack-2x {
+    color: transparent;
+}
+
+.speaker-item .fa-stack-1x {
+    color: #4285f4;
+    height: 100%;
+}
+
+.speaker-item h4 {
+    color: #4285f4;
+}
+
+/* Modal */
+.speaker-item .modal a {
+    display: inline-block;
+}
+
+.modal-content {
+  border-radius: 0;
+  line-height: 1.5em;
+}
+
+.modal-body {
+    display: table;
+  padding: 0;
+    width: 100%;
+}
+
+.wtm-modal-content-left {
+      display: table-cell;
+      float: none;
+      vertical-align: top;
+      width: 35%;
+      padding: 50px 15px 30px;
+      background: rgba(66, 161, 202, .1);
+}
+
+.wtm-modal-content-right {
+      display: table-cell;
+    float: none;
+    vertical-align: top;
+    padding: 50px 30px 30px;
+    width: 65%;
+}
+
+@media(max-width:768px) {
+    .wtm-modal-content-right, 
+    .wtm-modal-content-left {
+        width: 100%;
+        display: block;
+        padding: 30px;
+    }
+}
+
+button.close {
+  float: none;
+  font-size: 30px;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+}
+
+.modal .btn-default {
+    border: none;
+    color: #4285f4;
 }
 
 /* Organizers */
@@ -323,7 +414,7 @@ hr.small {
     padding: 10px !important;
 }
 
-@media(max-width:768px) {
+@media(max-width:767px) {
     .sponsor-wrapper {
         width: 33%;
     }
@@ -736,4 +827,33 @@ ul i {
     .ribbon {
        width: 80%;
     }
+}
+
+/* Agenda */
+.agenda table {
+    border: 2px solid rgba(66, 133, 244, .1);
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.agenda table tr {
+    border: 2px solid rgba(66, 133, 244, .1);
+}
+
+.agenda table tr td {
+    border: 2px solid rgba(66, 133, 244, .1);
+}
+
+.agenda table tr td.empty {
+    background-color: rgba(66, 133, 244, .1);
+}
+
+.agenda table tr td a {
+  color: inherit;
+  text-decoration: inherit; /* no underline */
+}
+
+.agenda table tr td a:hover {
+  background-color: rgba(66, 133, 244, .1);
 }

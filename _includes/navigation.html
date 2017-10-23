@@ -5,18 +5,22 @@
     <li class="sidebar-brand">
       <a href="#top"  onclick = $("#menu-close").click(); >WTM Zaragoza</a>
     </li>
+    <!--
     <li>
       <a href="#top" onclick = $("#menu-close").click(); >Inicio</a>
     </li>
+  -->
     <li>
       <a href="#introduction" onclick = $("#menu-close").click(); >¿Cuándo y dónde?</a>
     </li>
     <li>
       <a href="#tickets" onclick = $("#menu-close").click(); >Entradas</a>
     </li>
+    <!--
     <li>
       <a href="#countdown" onclick = $("#menu-close").click(); >Cuenta atrás</a>
     </li>
+  -->
     <li>
       <a href="#code_conduct" onclick = $("#menu-close").click(); >Código de conducta</a>
     </li>
@@ -25,12 +29,19 @@
     </li>
     <!--
     <li>
+      <a href="#agenda" onclick = $("#menu-close").click(); >Agenda</a>
+    </li>
+    -->
+    <!--
+    <li>
       <a href="#join-speakers" onclick = $("#menu-close").click(); >Únete a nuestras ponentes</a>
     </li>
     -->
     <!-- Comparamos las fechas para despublicar el C4P en la fecha correcta -->
     {% capture now %}{{ site.time | date: '%d/%m/%Y %T' }}{% endcapture %}
+    {% capture today %}{{ "today" | date: '%d/%m/%Y %T' }}{% endcapture %}
     {% capture end_c4p %}{{ site.end_c4p | date: '%d/%m/%Y %T' }}{% endcapture %}
+    
     {% if end_c4p > now %}
     <!-- Si aun no se ha cerrado el C4P mantenemos la info para enviar la propuesta -->
     <li>
@@ -42,25 +53,28 @@
       <a href="#list-speakers" onclick = $("#menu-close").click(); >Nuestras ponentes</a>
     </li>
     {% endif %}
-    <!--
-    <li>
-      <a href="#list-speakers" onclick = $("#menu-close").click(); >Nuestras ponentes</a>
-    </li>
-    -->
+    
     <li>
       <a href="#mulleres_tech" onclick = $("#menu-close").click(); >Mulleres Tech</a>
     </li>
+    <!--
     <li>
       <a href="#goals" onclick = $("#menu-close").click(); >Nuestros objetivos</a>
     </li>
     <li>
       <a href="#organizers" onclick = $("#menu-close").click(); >Nosotras</a>
     </li>
+    -->
+    <!--
     <li>
       <a href="#join-sponsors" onclick = $("#menu-close").click(); >Únete a nuestros patrocinadores</a>
     </li>
     <li>
       <a href="#list-sponsors" onclick = $("#menu-close").click(); >Nuestros patrocinadores</a>
+    </li>
+    -->
+    <li>
+      <a href="#join-sponsors" onclick = $("#menu-close").click(); >Patrocinadores</a>
     </li>
   </ul>
 </nav>

@@ -1,0 +1,192 @@
+<section id="agenda" class="agenda">
+
+  <div class="container">
+
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h2>Agenda</h2>
+        <hr class="small">
+      </div>
+    </div>
+
+    {% if site.talks_track_1 %}
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h3 class="ribbon ribbon-lg">PONENCIAS</h3>
+      </div>
+    </div>
+    <div class="row text-center sponsor-md">
+      <div class="col-lg-10 col-lg-offset-1">
+
+        <table class="col-lg-12">
+          <tr>
+            <td class="col-lg-2"></td>
+            <td class="col-lg-5">TRACK 1</td>
+            <td class="col-lg-5">TRACK 2</td>
+            
+          </tr>
+          {% for talk_track_1 in site.talks_track_1 %}
+          {% assign talk_track_2 = site.talks_track_2[forloop.index0] %}
+
+          <tr>
+            <td>{{ talk_track_1.time }}</td>
+
+            {% if talk_track_1.track == 'all' %}
+
+            <td colspan="2">{{ talk_track_1.name }}</td>
+
+            {% else %}
+
+              {% assign talk_track_1_name = talk_track_1.name | strip_newlines %}
+              {% assign talk_track_2_name = talk_track_2.name | strip_newlines %}
+
+              {% if talk_track_1_name == "" %}
+
+            <td class="empty"></td>
+
+              {% else %}
+
+            <td>
+              <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_1.track }}">{{ talk_track_1.name }}</a>
+              <!-- Modal -->
+              <div class="modal fade" id="talk-{{ forloop.index0 }}-{{ talk_track_1.track }}" role="dialog">
+                <div class="modal-dialog">
+                
+                  <!-- Modal content-->
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title"><strong>{{ talk_track_1.name }}</strong></h4>
+                    </div>
+                    <div class="modal-body">
+                      <p>{{ talk_track_1.descrip }}</p>
+                      <hr class="small">
+                      <p>{{ talk_track_1.speaker }}</p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+            </td>
+
+              {% endif %}
+
+              {% if talk_track_2_name == "" %}
+
+            <td class="empty"></td>
+
+              {% else %}
+
+            <td>
+              <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_2.track }}">{{ talk_track_2.name }}</a>
+              <!-- Modal -->
+              <div class="modal fade" id="talk-{{ forloop.index0 }}-{{ talk_track_2.track }}" role="dialog">
+                <div class="modal-dialog">
+                
+                  <!-- Modal content-->
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title"><strong>{{ talk_track_2.name }}</strong></h4>
+                    </div>
+                    <div class="modal-body">
+                      <p>{{ talk_track_2.descrip }}</p>
+                      <hr class="small"/>
+                      <p>{{ talk_track_2.speaker }}</p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+            </td>
+
+              {% endif %}
+
+            {% endif %}
+          </tr>
+          {% endfor %}
+        </table>
+        
+     </div>
+   </div>
+   {% endif %}
+
+   {% if site.workshops %}
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h3 class="ribbon ribbon-lg">TALLERES</h3>
+      </div>
+    </div>
+    <div class="row text-center sponsor-md">
+      <div class="col-lg-10 col-lg-offset-1">
+
+        <table class="col-lg-12">
+          <tr>
+            <td class="col-lg-2"></td>
+            <td class="col-lg-10">SALA</td>
+            
+          </tr>
+          {% for workshop in site.workshops %}
+
+          <tr>
+            <td>{{ workshop.time }}</td>
+
+            {% if workshop.track == 'all' %}
+
+            <td>{{ workshop.name }}</td>
+
+            {% else %}
+
+              {% assign workshop_name = workshop.name | strip_newlines %}
+              
+              {% if workshop_name == "" %}
+
+            <td class="empty"></td>
+
+              {% else %}
+
+            <td>
+            <a href="#" data-toggle="modal" data-target="#workshop-{{ forloop.index0 }}">{{ workshop.name }}</a>
+            <div class="modal fade" id="workshop-{{ forloop.index0 }}" role="dialog">
+                <div class="modal-dialog">
+                
+                  <!-- Modal content-->
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title"><strong>{{ workshop.name }}</strong></h4>
+                    </div>
+                    <div class="modal-body">
+                      <p>{{ workshop.descrip }}</p>
+                      <hr class="small"/>
+                      <p>{{ workshop.speaker }}</p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+            </td>
+
+              {% endif %}
+
+            {% endif %}
+          </tr>
+          {% endfor %}
+        </table>
+        
+     </div>
+   </div>
+   {% endif %}
+
+</div>
+<!-- /.container -->
+</section>

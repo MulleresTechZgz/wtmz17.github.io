@@ -113,9 +113,128 @@ organizers:
 
 #List for speakers
 speakers:
-  - name: Aparece aquí!
-    text: Aparece aquí!!
-    image: fa-cloud
+  - name: Veronica Abizanda
+    bio: 'Es la Directora técnica de Torresburriel Estudio, donde lleva 4 años ejerciendo como Senior UX Designer, Research y Test Conductor, y profesora en UX Learn, centro de formación en usabilidad y experiencia de usuario.<br/>Es licenciada en Administración y Dirección de Empresas, especializada en Dirección General, por la Universidad de Zaragoza, donde también realizó el Máster electrónico en Administración de empresas (MeBA).'
+    image:
+    twitter_account: veniabi
+    linkedin_account: veronicaabizanda 
+#  - name: Marta Azanza
+#    bio: 
+#    image:
+#    twitter_account: 
+#    linkedin_account:
+  - name: Maria Blasco
+    bio: 'María Blasco (Huesca, 1987), Licenciada en Bellas Artes por la Universidad de Castilla-La-Mancha., actualmente Doctorando en Arte y Humanidades en la Escuela Internacional de Doctorado de la UCLM.<br/>Parte del Grupo de Investigación Interfaces y Nuevos Medios  (MIDE, UCLM), liderado por J.R. Alcalá donde realizan diversas investigaciones sobre New Media Art. Asimismo, como miembro del equipo de trabajo en el Proyecto de Excelencia MINECO que lleva por título “Archivo Español de Media Art”, ha realizado la catalogación y registro de todas las obras artísticas creadas o expuestas en Etopia Centro de Arte y Tecnología (Zaragoza) desde su apertura hasta la actualidad.'
+    image:
+    twitter_account: m_blascocubas
+    linkedin_account: 
+    web: http://www.mariablasco.com/
+  - name: Mireia Cabañes
+    bio: 'Soy licenciada en Comunicación Audiovisual por la Universidad de Sevilla. Y he vivido en Valencia (mi ciudad natal), Sevilla y Madrid. En la Universidad Europea de Madrid estudié un máster en Gestión y Creación de Contenidos. Y de forma online, estudié un postgrado de Publicidad, Marketing y Social Media en la Escuela de Negocios Europea de Barcelona (ENEB). Esta semana pasada me matriculé en otro máster en la Uned porque quiero hacer un doctorado en accesibilidad y comunicación.<br/>Aprendí de todos ellos y me encanta formarme. Pero a mí la vida me ha enseñado mucho más. Y el resultado de unir las dos cosas, me gusta transmitirlo a los demás. Eso es lo que llevo haciendo un tiempo, doy charlas de motivación y ayudo a abrirle los ojos a la gente en cómo la tecnología puede ayudarnos en nuestro día a día. '
+    image: img/ponentes/mireia_cabanes.jpg
+    twitter_account: eme_cabanyes
+    linkedin_account:
+  - name: Ana Belén Cambra Linés
+    bio: 'Soy Ana Cambra, estudiante de último año de Doctorado por la Universidad de Zaragoza. Nací en Barbastro, provincia de Huesca, pero llevo viviendo en Zaragoza ya muchos años. Desde que era pequeña, ya tenía muy claro que quería dedicarme a algo relacionado con la tecnología. Toda mi carrera profesional ha estado relacionada con la Visión por Computador, concretamente, desarrollando sistemas inteligentes para extraer información a partir de una sola imagen. '
+    image:
+    twitter_account: Ana_Cambra
+    linkedin_account: 
+    web: http://webdiis.unizar.es/~acambra/
+  - name: Silvia Casas Cañadas
+    bio: 'Turolense, ingeniera de telecomunicaciones y bloguera.<br/>Me encanta el marketing, crear nuevas webs y buscar la forma de convertirlas en un modo de vida. He tenido la suerte de estar al lado de muchas pequeñas empresas, comercios y asociaciones en sus primeros pasos por Internet, y de haber estado presente en el desarrollo de grandes proyectos de ITS (sistemas inteligentes de transporte) e IOT desde sus inicios.<br/>Soy formadora de adultos, impartiendo cursos relacionados con el marketing, el comercio electrónico y la informática.'
+    image:
+    twitter_account: silviacasas
+    linkedin_account:
+#  - name: Marisa Claver Baron
+#    bio: 
+#    image:
+#    twitter_account: marisa_claver
+#    linkedin_account:
+  - name: Valeria Corrales
+    bio: 'Soy una niña de Huesca, tengo 8 años. Me gusta mucho el deporte pero el que mas el tenis, aunque también hago atletismo.<br/>Me encanta crear y construir cosas, hacer historias animadas con personajes inventados, programar juegos y robots, jugar con Minecraft y las mates.'
+    image:
+    twitter_account: valeriacch7
+    linkedin_account:
+#  - name: Maria Jesus Fernandez
+#    bio: 
+#    image:
+#    twitter_account: 
+#    linkedin_account:
+  - name: Raquel Garcia Escobedo
+    bio: 'Raquel García Escobedo, 31 años y nacida en Zaragoza.<br/>Soy programadora informática, co-fundadora de Crom Developer, monitora de tiempo Libre, Directora de Campamentos... Enamorada de la formación, y del trabajo con los niños y niñas.'
+    image: img/ponentes/raquel_garcia.jpg
+    twitter_account: CromDeveloper
+    linkedin_account:
+  - name: Lucia Gomez Lopez
+    bio: 'Me llamo Lucía y siempre me ha gustado inventar cosas, así que estudié Ingeniería Informática con la idea de participar de esta gran revolución tecnológica que nos rodea. Trabajar mano a mano con diseñadores me hizo darme cuenta de que me gustaba más su trabajo que el mío, así que empecé a formarme por mi cuenta hasta que decidí dar un paso más y estudiar Diseño de productos digitales para cambiar de carrera profesional. Actualmente trabajo en Tuenti/Telefónica Digital como diseñadora UX y formo parte de la organización del IxDA en Madrid.'
+    image: img/ponentes/lucia_gomez.jpg
+    twitter_account: malakatonez
+    linkedin_account: 
+  - name: Patricia Heredia Gil
+    bio: 'Ingeniera de Telecomunicaciones por la Universidad de Zaragoza. Dedicada durante más de 8 años al diseño y desarrollo de equipos electrónicos para sistemas RTOS. Creadora  del proyecto MiniVinci, empresa en la que actualmente, imparte talleres a niños y adolescentes y ayuda a fomentar el interés por la tecnología en niñas y mujeres apoyando diversas iniciativas.'
+    image:
+    twitter_account: pherediagil
+    linkedin_account: patriciaherediagil
+#  - name: MªPilar Jiménez de Bagüés
+#    bio: 
+#    image:
+#    twitter_account: RISArchers
+#    linkedin_account:
+#  - name: Elisabet Lacarra
+#    bio: 'Elisabet Lacarra terminó ingeniería de telecomunicaciones en 2005 en la Universidad de Zaragoza. Desde 2005 a 2008 trabajó en GMV como desarrollodara SW de herramientas que implementan algoritmos de receptores para sistemas de navegación por satélite. Desde 2009 Elisabet ha trabajado en ESSP (European Satellite Service Provider), el proveedor de un sistema de navegación por satélite europeo llamado EGNOS.'
+#    image:
+#    twitter_account: 
+#    linkedin_account:
+  - name: Luisa Lahoz Folguera
+    bio: 'Luisa estudió ingeniería para entender personalmente cómo funcionan las cosas. En ese camino descubrió la desigualdad de género. Y también quería entender cómo funciona la desigualdad de género.<br/>Esta búsqueda la ha llevado a un activismo social desde la asociación Towanda, asociación por la diversidad afectivo- sexual. A través de este activismo ha encontrado maneras de conocer, entender y cambiar el mundo.<br/>Actualmente trabaja como profesora de tecnología y sigue buscando cómo funcionan las cosas. Pero ya no está sola.'
+    image: img/ponentes/luisa_lahoz.jpeg
+    twitter_account: 
+    linkedin_account:
+#  - name: Carmen Lopez
+#    bio: 'Nací en Zaragoza hace 37 años. Estudié Ingeniería Informática en la Universidad de Zaragoza por casualidad... O quizás no: con 9 años ya hacía mis pinitos en Basic con mi Amstrad CPC 6128.<br/>Tengo un postgrado en Recursos Humanos y Operaciones por la Universidad Autónoma de Barcelona. Los últimos 10 años me dedicado a la consultoría interna en una multinacional farmacéutica. <br/>Hace un año decidí dar un giro de 180º a mi carrera y volver a "los orígenes". Ahora me dedico a la ciberseguridad, formándome en un área extensa y apasionante que está en continua evolución.'
+#    image:
+#    twitter_account: carmenzta
+#    linkedin_account:
+#  - name: María Pilar Lozano Bernal
+#    bio: 
+#    image:
+#    twitter_account: mplozano1
+#    linkedin_account:
+#  - name: Irene Luzan Gallego
+#    bio: 
+#    image:
+#    twitter_account: 
+#    linkedin_account:
+#  - name: Marta Ortin Obon
+#    bio: 
+#    image:
+#    twitter_account: 
+#    linkedin_account:
+#  - name: Marta Perez Campos
+#    bio: 
+#    image:
+#    twitter_account: 
+#    linkedin_account:
+#  - name: Diana Ruiz
+#    bio: 
+#    image:
+#    twitter_account: 
+#    linkedin_account:
+  - name: Lucía Sánchez
+    bio: 'Desde pequeña mi pasión es la tecnología y siempre he querido tener mi propia empresa. A los 10 años decidí que quería emprender y más adelante me empecé a interesar por la programación. Estuve aprendiendo gracias a tutoriales en Youtube y páginas cómo codecademy. Después de un año logré publicar mi primer juego, Crazy Block, que ha conseguido 10000 descargas en el Google Play y Apple Store. Más adelante publiqué un segundo juego y decir crear mi propio estudio, Unicorn Gamer. Ahora mismo estoy trabajando en nuevos proyectos y en el futuro me gustaría tener mi propia empresa tecnológica.'
+    image: img/ponentes/lucia_sanchez.jpg
+    twitter_account: lsanchezpozo
+    linkedin_account:
+#  - name: María Luisa Sarsa Sarsa
+#    bio: 
+#    image:
+#    twitter_account: marisasarsa
+#    linkedin_account:
+  - name: Maria Villaroya
+    bio: 'María Villarroya Gaudó, doctora en Ingeniería Electrónica y Profesora de Arquitectura y tecnología de Computadores de la Universidad de Zaragoza. Presidenta de AMIT-Aragón, Asociación de Mujeres Investigadoras y Tecnólogas, desde donde lleva más de una década trabajando por aumentar la presencia de mujeres en ingeniería, acercando la ingeniería y en particular la informática a la sociedad, a las chicas y niñas aragonesas con actividades como El Girl''s Day o Una ingeniera en cada cole. '
+    image: img/ponentes/maria_villaroya.jpg
+    twitter_account: mvgaudo
+    linkedin_account:
 
 #List for sponsors
 sponsors_platinum:
@@ -166,6 +285,11 @@ sponsors_gold:
     image: img/patrocinadores/gold/cuentica.png
     web: https://cuentica.com/
     twitter: cuentica
+  - name: Plain Concepts
+    text: 
+    image: img/patrocinadores/gold/plain_concepts.png
+    web: https://www.plainconcepts.com/
+    twitter: plainconcepts
 
 sponsors_silver:
   - name: Usit Development
@@ -205,3 +329,409 @@ sponsors_others:
     image: img/patrocinadores/colaboradores/eboca.png
     web: https://www.eboca.com/
     twitter: EbocaVending
+
+# Agenda
+talks_track_1:
+  - time: 09:00-09:30
+    track: all
+    name: REGISTRO
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 09:30-10:00
+    track: all
+    name: PRESENTACIÓN
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:00-10:25
+    track: 1
+    name: Más de 10 años acercando la tecnología a las chicas en Aragón
+    descrip: 'Será una síntesis de las actividades que desde AMIT-Aragón realizamos para acercar la ingeniería y la tecnología a la sociedad y en particular para que más chicas se animen a realizar estudios técnicos. Más de una década de experiencias, análisis y bastante trabajo.'
+    speaker: Maria Villaroya
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:25-10:45
+    track: 1
+    name: Platinum
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:45-11:05
+    track: 1
+    name: Platinum
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:05-11:20
+    track: 1
+    name: El "toque" Marie Curie
+    descrip: 
+    speaker: Mayte Ortí
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:20-12:00
+    track: all
+    name: DESCANSO CAFÉ
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:00-12:25
+    track: 1
+    name: No, este robot no lo ha hecho mi hermano
+    descrip: 
+    speaker: Valeria Corrales
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:25-12:45
+    track: 1
+    name: Platinum
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:45-13:05
+    track: 1
+    name: Sistemas de navegación por satélite europeos
+    descrip: 'Hoy en día todos conocemos GPS y lo utilizamos en nuestro día a día. Pero, ¿sabemos qué es EGNOS? GPS tiene un inconveniente, no nos ofrece un posicionamiento íntegro y por tanto no puede utilizarse en aplicaciones críticas como en aviación (aterrizaje y despegue). Por eso, la Comisión Europea nos ofrece un sistema de navegación europeo gratuito que se llama EGNOS, que mejora la solución de GPS y ofrece Integridad para que pueda utilizarse en aplicaciones críticas. A parte, la Comisión Europea está actualmente desplegando el sistema Galileo, un sistema de posicionamiento global similar al americano GPS que incorporará diversas ventajas. Considerando todas las iniciativas de navegación por satélite que están desplegando todos los países (China, Rusia, Europa, Estados Unidos…), los receptores de la próxima década van a tener cientos posibilidades de posicionamiento por satélite!'
+    speaker: Elisabet Lacarra
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:05-13:30
+    track: 1
+    name: Cómo Youtube nos ayuda a conseguir nuestros sueños
+    descrip: 'Voy a hablar sobre como se puede aprender de todo a través de youtube de manera gratuita, porqué todo el mundo debería realizar un proyecto personal, la necesidad de tener foco para sacarle partido a estos recursos y sobre la necesidad de pedir ayuda.'
+    speaker: Lucia Sanchez
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:30-13:55
+    track: 1
+    name: Platinum
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:55-15:30
+    track: all
+    name: COMIDA
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 15:30-15:55
+    track: 1
+    name: Directora de Aenor
+    descrip: 
+    speaker: Marisa Claver Baron
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 15:55-16:20
+    track: 1
+    name: Aprendiendo a que los ordenadores aprendan
+    descrip: 'Desde películas clásicas de ciencia ficción a los últimos artículos científicos, la inteligencia artificial es un concepto muy presente hoy en día. Pero: ¿cómo podemos enseñar a los ordenadores y cómo éstos aprenden? A día de hoy, todavía no sabemos como funciona al 100% nuestro cerebro ni cómo aprende, sin embargo, sabemos muy bien que los humanos aprendemos a base de ejemplos y repetición. El "aprendizaje automático" aplica esta misma técnica pero a los ordenadores, de manera que se están obteniendo mejores resultados que los que se conseguían hasta hace unos pocos años. Durante la charla presentaré el concepto de aprendizaje automático y "deep learning", mostraré casos de aplicación y alguna como de librerías y/o herramienta disponibles.'
+    speaker: Ana Belén Cambra Linés
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 16:20-16:45
+    track: 1
+    name: Platinum
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 16:45-17:05
+    track: 1
+    name: Mi viaje del desarrollo al diseño y todo lo que aprendí por el camino
+    descrip: 
+    speaker: Lucia Gomez Lopez
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:05-17:25
+    track: all
+    name: DESCANSO CAFÉ
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:25-17:50
+    track: 1
+    name: Cambia la N de no puedo por la y de yo puedo
+    descrip: 
+    speaker: Mireia Cabañes
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:50-18:15
+    track: 1
+    name: Women in New Media Art
+    descrip: 'Parte del Grupo de Investigación Interfaces y Nuevos Medios  (MIDE, UCLM), liderado por J.R. Alcalá donde realizan diversas investigaciones sobre New Media Art. Asimismo, como miembro del equipo de trabajo en el Proyecto de Excelencia MINECO que lleva por título “Archivo Español de Media Art”, ha realizado la catalogación y registro de todas las obras artísticas creadas o expuestas en Etopia Centro de Arte y Tecnología (Zaragoza) desde su apertura hasta la actualidad.'
+    speaker: Maria Blasco
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 18:15-18:40
+    track: 1
+    name: Cuando las mujeres coordinan una startup
+    descrip: 
+    speaker: Cynthia Galvez y Diana Ruiz
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 18:40-19:00
+    track: all
+    name: MONOLOGOS
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '19:00'
+    track: all
+    name: CIERRE
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+
+talks_track_2: 
+  - time: 09:00-09:30
+    track: all
+    name: REGISTRO
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 09:30-10:00
+    track: all
+    name: PRESENTACIÓN
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:00-10:25
+    track: 2
+    name: Usos inesperados para objetos comunes
+    descrip: 
+    speaker: Marta Perez Campos
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:25-10:45
+    track: 2
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:45-11:05
+    track: 2
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:05-11:20
+    track: 2
+    name: Cómo hacer que alguien de letras se interese por la ciencia a través de la tecnología
+    descrip: 
+    speaker: Marta Azanza
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:20-12:00
+    track: all
+    name: DESCANSO CAFÉ
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:00-12:25
+    track: 2
+    name: Marketing analítico:usando los datos para vender más
+    descrip: '¿Qué papel juegan los datos hoy en día en el marketing online?. Acompáñanos en este viaje para descubrir diferentes herramientas para obtener información y aprender a utilizarla para conseguir vender más en Internet. Hablaremos de cómo busca la gente en los buscadores, de publicidad online o de analítica web, para ver cómo cualquier proyecto web, por pequeño que sea, puede beneficiarse de esta información disponible y mejorar sus resultados.'
+    speaker: Silvia Casas Cañadas
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:25-12:45
+    track: 2
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:45-13:05
+    track: 2
+    name: Tecnología y diseño 3D aplicado a escenografía y la tematización
+    descrip: 
+    speaker: Irene Luzan Gallego
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:05-13:30
+    track: 2
+    name: Educando a través de la tecnología
+    descrip: 'La charla que propuse es la visión que yo tengo sobre cómo se puede educar a través de la tecnología, no solamente en conocimientos teóricos, sino también con experiencias, cercanía, sensaciones, valores... Cosa que siempre nos ha parecido fundamental.<br/>A través de las herramientas con las que trabajamos en la clase, conseguimos obtener tanto conocimientos acerca de programación, electrónica y demás, como fomentar el trabajo en equipo, la colaboración, la imaginación...<br/>Nuestra pretensión es que los niños no sean meros espectadores, sino que sean creadores de su propia realidad.'
+    speaker: Raquel Garcia Escobedo
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:30-13:55
+    track: 2
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:55-15:30
+    track: all
+    name: COMIDA
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 15:30-15:55
+    track: 2
+    name: 'Mujeres en ciberseguridad: ¡cambiemos los números!'
+    descrip: 
+    speaker: Carmen Lopez
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 15:55-16:20
+    track: 2
+    name: Sin género de dudas, tecnología
+    descrip: 'Esta charla pretende abrir un espacio para reflexionar sobre cómo los estereotipos de género afectan a la actitud que toman las mujeres en el ámbito de la tecnología.'
+    speaker: Luisa Lahoz Folguera
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 16:20-16:45
+    track: 2
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 16:45-17:05
+    track: 2
+    name: Como llevar a cabo un Think Aloud Test
+    descrip: 'Ponencia sobre el Think Aloud Test, un test de usabilidad con usuarios reales que busca mejorar un producto digital. Hablaremos de la importancia de realizar este tipo de test y de los pasos a seguir para su correcta realización.'
+    speaker: Veronica Abizanda
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:05-17:25
+    track: all
+    name: DESCANSO CAFÉ
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:25-17:50
+    track: 2
+    name: Web municipal
+    descrip: 
+    speaker: Maria Jesus Fernandez
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:50-18:15
+    track: 2
+    name: ¿Cómo averiguamos si un bebé puede ver bien?
+    descrip: 
+    speaker: Marta Ortin Obon
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 18:15-18:40
+    track: 2
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 18:40-19:00
+    track: all
+    name: MONOLOGOS
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '19:00'
+    track: all
+    name: CIERRE
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+
+workshops: 
+  - time: 09:00-09:30
+    track: all
+    name: REGISTRO
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 09:30-10:00
+    track: all
+    name: PRESENTACIÓN
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:00-11:20
+    track: workshop
+    name: 'Taller: Pixel y pincel'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:20-12:00
+    track: all
+    name: DESCANSO CAFÉ
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:00-13:55
+    track: workshop
+    name: Taller
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:55-15:30
+    track: all
+    name: COMIDA
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 15:30-17:05
+    track: workshop
+    name: Taller
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:05-17:25
+    track: all
+    name: DESCANSO CAFÉ
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:25-18:40
+    track: workshop
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 18:40-19:00
+    track: all
+    name: MONOLOGOS
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '19:00'
+    track: all
+    name: CIERRE
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
