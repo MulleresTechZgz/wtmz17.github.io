@@ -123,17 +123,22 @@ speakers:
 #    image:
 #    twitter_account: 
 #    linkedin_account:
+  - name: Maria Berenguer
+    bio: 'Scrum master de profesión, ingeniera informática de formación. Las metodologías ágiles, la actuación y el teatro son mi pasión. Durante años he trabajado en el desarrollo de software, y más específicamente en gestión de proyectos. Hace 6 años un amigo del trabajo me dijo: "María, tú eres ágil y todavía no lo sabes". Y desde ese momento me interesé por las metodologías ágiles, comencé a participar de la comunidad Agile Aragón, primero escuchando, y en seguida participando activamente, en coding dojos, charlas de introducción, talleres, cursos y cualquier tipo de "sarao" que se organizara. Soy aprendiz de Agile (siempre lo seré) y disfruto compartiendo las experiencias e inquietudes que tengo acerca de este mundo. Actualmente tengo la suerte de dedicarme profesionalmente a ello. He estado un año y medio en Mallorca trabajando como Scrum Master de equipos y agente de cambio. Ahora regreso a Zaragoza, y comienzo una nueva aventura como Scrum Master, en Vueling.'
+    image:
+    twitter_account: merybere
+    linkedin_account:
   - name: Maria Blasco
     bio: 'María Blasco (Huesca, 1987), Licenciada en Bellas Artes por la Universidad de Castilla-La-Mancha., actualmente Doctorando en Arte y Humanidades en la Escuela Internacional de Doctorado de la UCLM.<br/>Parte del Grupo de Investigación Interfaces y Nuevos Medios  (MIDE, UCLM), liderado por J.R. Alcalá donde realizan diversas investigaciones sobre New Media Art. Asimismo, como miembro del equipo de trabajo en el Proyecto de Excelencia MINECO que lleva por título “Archivo Español de Media Art”, ha realizado la catalogación y registro de todas las obras artísticas creadas o expuestas en Etopia Centro de Arte y Tecnología (Zaragoza) desde su apertura hasta la actualidad.'
     image:
     twitter_account: m_blascocubas
     linkedin_account: 
     web: http://www.mariablasco.com/
-  - name: Mireia Cabañes
-    bio: 'Soy licenciada en Comunicación Audiovisual por la Universidad de Sevilla. Y he vivido en Valencia (mi ciudad natal), Sevilla y Madrid. En la Universidad Europea de Madrid estudié un máster en Gestión y Creación de Contenidos. Y de forma online, estudié un postgrado de Publicidad, Marketing y Social Media en la Escuela de Negocios Europea de Barcelona (ENEB). Esta semana pasada me matriculé en otro máster en la Uned porque quiero hacer un doctorado en accesibilidad y comunicación.<br/>Aprendí de todos ellos y me encanta formarme. Pero a mí la vida me ha enseñado mucho más. Y el resultado de unir las dos cosas, me gusta transmitirlo a los demás. Eso es lo que llevo haciendo un tiempo, doy charlas de motivación y ayudo a abrirle los ojos a la gente en cómo la tecnología puede ayudarnos en nuestro día a día. '
-    image: img/ponentes/mireia_cabanes.jpg
-    twitter_account: eme_cabanyes
-    linkedin_account:
+#  - name: Mireia Cabañes
+#    bio: 'Soy licenciada en Comunicación Audiovisual por la Universidad de Sevilla. Y he vivido en Valencia (mi ciudad natal), Sevilla y Madrid. En la Universidad Europea de Madrid estudié un máster en Gestión y Creación de Contenidos. Y de forma online, estudié un postgrado de Publicidad, Marketing y Social Media en la Escuela de Negocios Europea de Barcelona (ENEB). Esta semana pasada me matriculé en otro máster en la Uned porque quiero hacer un doctorado en accesibilidad y comunicación.<br/>Aprendí de todos ellos y me encanta formarme. Pero a mí la vida me ha enseñado mucho más. Y el resultado de unir las dos cosas, me gusta transmitirlo a los demás. Eso es lo que llevo haciendo un tiempo, doy charlas de motivación y ayudo a abrirle los ojos a la gente en cómo la tecnología puede ayudarnos en nuestro día a día. '
+#    image: img/ponentes/mireia_cabanes.jpg
+#    twitter_account: eme_cabanyes
+#    linkedin_account:
   - name: Ana Belén Cambra Linés
     bio: 'Soy Ana Cambra, estudiante de último año de Doctorado por la Universidad de Zaragoza. Nací en Barbastro, provincia de Huesca, pero llevo viviendo en Zaragoza ya muchos años. Desde que era pequeña, ya tenía muy claro que quería dedicarme a algo relacionado con la tecnología. Toda mi carrera profesional ha estado relacionada con la Visión por Computador, concretamente, desarrollando sistemas inteligentes para extraer información a partir de una sola imagen. '
     image:
@@ -151,9 +156,14 @@ speakers:
 #    twitter_account: marisa_claver
 #    linkedin_account:
   - name: Valeria Corrales
-    bio: 'Soy una niña de Huesca, tengo 9 años. Me gusta mucho el deporte pero el que mas el tenis, aunque también hago atletismo.<br/>Me encanta crear y construir cosas, hacer historias animadas con personajes inventados, programar juegos y robots, jugar con Minecraft y las mates.'
+    bio: 'Soy una niña de Huesca, tengo 9 años. Me gusta mucho el deporte, juego a tenis y hago atletismo. <br/>Me encanta crear y construir cosas, hacer historias animadas con personajes inventados, programar juegos y robots, jugar con Minecraft y las mates. <br/>Escribo cosas en un blog y subo muchos vídeos de todo lo que voy haciendo a mi canal de Youtube.'
     image:
     twitter_account: valeriacch7
+    linkedin_account:
+  - name: Etopia Kids
+    bio: 'ETOPIA_KIDS es el programa de aprendizaje y experimentación con arte, ciencia y tecnologías creativas de código abierto que la Fundación Zaragoza Ciudad del Conocimiento desarrolla para Etopia Centro de Arte y Tecnología. Dirigido a niños y niñas de edades comprendidas entre los 6 y los 14 años, comenzó su andadura en 2013 con la Colonia Urbana de verano. ETOPIA_KIDS es un proyecto que no ha parado de crecer y bajo cuya marca se desarrolla también el programa ETOPIA_KIDS FAMILY, con actividades y talleres durante todo el año para disfrutar en familia, y el AULA DIWOK, un espacio de trabajo cooperativo para chicos y chicas de entre 13 y 18 años.'
+    image:
+    twitter_account: etopia_kids
     linkedin_account:
 #  - name: Maria Jesus Fernandez
 #    bio: 
@@ -180,46 +190,66 @@ speakers:
 #    image:
 #    twitter_account: RISArchers
 #    linkedin_account:
-#  - name: Elisabet Lacarra
-#    bio: 'Elisabet Lacarra terminó ingeniería de telecomunicaciones en 2005 en la Universidad de Zaragoza. Desde 2005 a 2008 trabajó en GMV como desarrollodara SW de herramientas que implementan algoritmos de receptores para sistemas de navegación por satélite. Desde 2009 Elisabet ha trabajado en ESSP (European Satellite Service Provider), el proveedor de un sistema de navegación por satélite europeo llamado EGNOS.'
-#    image:
-#    twitter_account: 
-#    linkedin_account:
+  - name: Elisabet Lacarra
+    bio: 'Elisabet Lacarra terminó ingeniería de telecomunicaciones en 2005 en la Universidad de Zaragoza. Desde 2005 a 2008 trabajó en GMV como desarrollodara SW de herramientas que implementan algoritmos de receptores para sistemas de navegación por satélite. Desde 2009 Elisabet ha trabajado en ESSP (European Satellite Service Provider), el proveedor de un sistema de navegación por satélite europeo llamado EGNOS.'
+    image: img/ponentes/elisabet_lacarra.jpg
+    twitter_account: 
+    linkedin_account:
   - name: Luisa Lahoz Folguera
     bio: 'Luisa estudió ingeniería para entender personalmente cómo funcionan las cosas. En ese camino descubrió la desigualdad de género. Y también quería entender cómo funciona la desigualdad de género.<br/>Esta búsqueda la ha llevado a un activismo social desde la asociación Towanda, asociación por la diversidad afectivo- sexual. A través de este activismo ha encontrado maneras de conocer, entender y cambiar el mundo.<br/>Actualmente trabaja como profesora de tecnología y sigue buscando cómo funcionan las cosas. Pero ya no está sola.'
     image: img/ponentes/luisa_lahoz.jpeg
     twitter_account: 
     linkedin_account:
-#  - name: Carmen Lopez
-#    bio: 'Nací en Zaragoza hace 37 años. Estudié Ingeniería Informática en la Universidad de Zaragoza por casualidad... O quizás no: con 9 años ya hacía mis pinitos en Basic con mi Amstrad CPC 6128.<br/>Tengo un postgrado en Recursos Humanos y Operaciones por la Universidad Autónoma de Barcelona. Los últimos 10 años me dedicado a la consultoría interna en una multinacional farmacéutica. <br/>Hace un año decidí dar un giro de 180º a mi carrera y volver a "los orígenes". Ahora me dedico a la ciberseguridad, formándome en un área extensa y apasionante que está en continua evolución.'
-#    image:
-#    twitter_account: carmenzta
-#    linkedin_account:
+  - name: Carmen Lopez
+    bio: 'Nací en Zaragoza hace 37 años. Estudié Ingeniería Informática en la Universidad de Zaragoza por casualidad... O quizás no: con 9 años ya hacía mis pinitos en Basic con mi Amstrad CPC 6128.<br/>Tengo un postgrado en Recursos Humanos y Operaciones por la Universidad Autónoma de Barcelona. Los últimos 10 años me dedicado a la consultoría interna en una multinacional farmacéutica. <br/>Hace un año decidí dar un giro de 180º a mi carrera y volver a "los orígenes". Ahora me dedico a la ciberseguridad, formándome en un área extensa y apasionante que está en continua evolución.'
+    image:
+    twitter_account: carmenzta
+    linkedin_account:
 #  - name: María Pilar Lozano Bernal
 #    bio: 
 #    image:
 #    twitter_account: mplozano1
 #    linkedin_account:
-#  - name: Irene Luzan Gallego
-#    bio: 
-#    image:
+  - name: Irene Luzan Gallego
+    bio: 'Irene Luzán (1986, Huesca)<br/>CEO - SHU DIGITAL y Técnico de escáner 3d<br/>Desde pequeña, en contacto directo con el mundo de la escenografía y tematización  en la empresa familiar Tecmolde. Hace 15 años, Tecmolde apuesta por la tecnología 3d para desarrollar sus proyectos. Es aquí cuando surge la especialización en escáner 3d. Después de varios años de formación 3d compaginados con el trabajo de tematización en taller, surge la oportunidad de formar Shu Digital y sacar partido a todas las posibilidades que tiene el mundo 3d. '
+    image: img/ponentes/irene_luzan.jpg
+    twitter_account: 
+    linkedin_account: SHu_Digital
+  - name: Noemi Medina
+    bio: 'Soy Noe Medina, frontend en Intelygenz. Salida de un laboratorio y reconvertida en mujer-tech, me gusta el código, los colores y los retos. No sé si conseguiré cambiar el mundo, pero empujo todos los días para que sea posible.'
+    image: img/ponentes/noemi_medina.jpg
+    twitter_account: 
+    linkedin_account:
+  - name: Marta Ortin Obon
+    bio: 'Marta Ortín es investigadora postdoctoral en el Graphics and Imaging Lab de la Universidad de Zaragoza. Obtuvo el Máster en Ingeniería de Sistemas e Informática en 2012 en la Universidad de Zaragoza, y el Doctorado en Ingeniería Informática en 2016 en la misma universidad. Ha realizado estancias en la Universidad de Ferrara (Italia) y en Intel Mobile Communications (Munich, Alemania). Su investigación se centra en captura y modelado de apariencia de materiales, renderizado en tiempo real, y desarrollo de aplicaciones haciendo uso de nuevas tecnologías. '
+    image: img/ponentes/marta_ortin.jpg
+    twitter_account: 
+    linkedin_account:
+#  - name: Mayte Ortin Puertolas
+#    bio: 'Diplomada en Estadística por la Universidad de Zaragoza.<br/>Actualmente Directora Gerente de Aragonesa de Servicios Telemáticos, entidad pública del Gobierno de Aragón responsable de las infraestructuras y servicios en  el ámbito de las tecnologías de la información y las telecomunicaciones.<br/>Su andadura profesional comenzó en 1999 en el sector de las TIC donde ha desempeñado funciones de dirección de negocio, gestión de proyectos e ingeniería del software. '
+##    image: 
 #    twitter_account: 
 #    linkedin_account:
-#  - name: Marta Ortin Obon
-#    bio: 
-#    image:
-#    twitter_account: 
-#    linkedin_account:
-#  - name: Marta Perez Campos
-#    bio: 
-#    image:
-#    twitter_account: 
-#    linkedin_account:
-#  - name: Diana Ruiz
-#    bio: 
-#    image:
-#    twitter_account: 
-#    linkedin_account:
+  - name: Marta Perez Campos
+    bio: 'Estudié Bellas Artes en la Universidad de Zaragoza donde principalmente empleé como medio de expresión el video y la fotografía. Tras finalizar mis estudios, me trasladé a Berlin y comencé a interesarme en el arte digital, instalaciones interactivas y proyectos artísticos en los que se proponen nuevas formas de interacción y se cuestionan las existentes. Este interés me llevo a comenzar el master en artes digitales Interface Cultures en la Kunstuni de Linz (Austria) y a comenzar Ingeniería Informática por la UNED. Actualmente, estoy escribiendo mi trabajo fin de master, en el que las interferencias generadas en la comunicación humana son consideradas como motor e inspiración para crear nuevas interfaces.'
+    image: img/ponentes/marta_perez.jpg
+    twitter_account: 
+    linkedin_account:
+  - name: Pixel y Pincel
+    bio: 'Pixel y Pincel es una empresa que estimula y potencia la creatividad a través de las nuevas tecnologías, para que todos aprendan a utilizarla como herramienta educación y comunicación. En Pixel y Pincel piensan que la creatividad es importante, por eso trabajan en ayudar a la gente a desarrollar la suya con talleres y además, ponen esa creatividad a disposición de empresas o particulares que la necesiten.'
+    image:
+    twitter_account: PixelyPincel
+    linkedin_account:
+  - name: RISArchers
+    bio: 'MªPilar Jiménez de Bagüés, María Pilar Lozano Bernal y María Luisa Sarsa Sarsa'
+    image:
+    twitter_account: RISArchers
+    linkedin_account:
+  - name: Diana Ruiz
+    bio: 'Desde que de adolescente sufriera un derrame cerebral tuvo claro que quería dedicarse a mejorar la calidad de la vida diaria de cualquier tipo de pacientes. Diana Ruiz es ahora doctora en robótica y se ha dedicado a explorar la relación entre el cerebro y coordinación motora con las señales biológicas del cuerpo humano para aplicaciones de sistemas exoesqueléticos y neuroprotésicos.<br/>Ha completado su formación con estancias de investigación en universidades internacionales. Ha estado inmersa en proyectos en el área de neurorehabilitación, lo que le ha permitido trabajar activamente en equipos multidisciplinares y colaborar con Hospitales de referencia.<br/>Actualmente, Diana es COO en Exovite, donde ha encontrado en un lugar donde compatibilizar la investigación en señales biomédicas con su otra gran pasión, la de ser madre.'
+    image: img/ponentes/diana_ruiz.jpg
+    twitter_account: 
+    linkedin_account:
   - name: Lucía Sánchez
     bio: 'Desde pequeña mi pasión es la tecnología y siempre he querido tener mi propia empresa. A los 10 años decidí que quería emprender y más adelante me empecé a interesar por la programación. Estuve aprendiendo gracias a tutoriales en Youtube y páginas cómo codecademy. Después de un año logré publicar mi primer juego, Crazy Block, que ha conseguido 10000 descargas en el Google Play y Apple Store. Más adelante publiqué un segundo juego y decir crear mi propio estudio, Unicorn Gamer. Ahora mismo estoy trabajando en nuevos proyectos y en el futuro me gustaría tener mi propia empresa tecnológica.'
     image: img/ponentes/lucia_sanchez.jpg
@@ -234,6 +264,11 @@ speakers:
     bio: 'María Villarroya Gaudó, doctora en Ingeniería Electrónica y Profesora de Arquitectura y tecnología de Computadores de la Universidad de Zaragoza. Presidenta de AMIT-Aragón, Asociación de Mujeres Investigadoras y Tecnólogas, desde donde lleva más de una década trabajando por aumentar la presencia de mujeres en ingeniería, acercando la ingeniería y en particular la informática a la sociedad, a las chicas y niñas aragonesas con actividades como El Girl''s Day o Una ingeniera en cada cole. '
     image: img/ponentes/maria_villaroya.jpg
     twitter_account: mvgaudo
+    linkedin_account:
+  - name: Ms von Disko
+    bio: 'Desde hace unos años la dj y promotora Ms von Disko - fundadora y copropietaria del colectivo y club Face Down Ass Up - se ha establecido como una de las principales innovadoras de la escena bass. Su catálogo musical le ha llevado a ser residente de las fiestas Cream de Pacha Ibiza, viajar por ciudades europeas como Berlin, Bristol o Guimaraes así como por la gran mayoría de clubs españoles y festivales como Magma, Electrosplash o FIZ.<br/>Un catálogo que recuerda al presente pero que siempre mira al futuro y que gira entorno al rap de la costa oeste norteamericana, al sonido UK,  a la estética de club de los 90 y que se expresa mediante trap, jersey club, bass house, grime, footwork o techno uniéndolo a un sin fin de estilos.'
+    image: 
+    twitter_account: msvondisko
     linkedin_account:
 
 #List for sponsors
