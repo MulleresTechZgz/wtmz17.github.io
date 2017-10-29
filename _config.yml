@@ -265,11 +265,11 @@ speakers:
     image: img/ponentes/maria_villaroya.jpg
     twitter_account: mvgaudo
     linkedin_account:
-  - name: Ms von Disko
-    bio: 'Desde hace unos años la dj y promotora Ms von Disko - fundadora y copropietaria del colectivo y club Face Down Ass Up - se ha establecido como una de las principales innovadoras de la escena bass. Su catálogo musical le ha llevado a ser residente de las fiestas Cream de Pacha Ibiza, viajar por ciudades europeas como Berlin, Bristol o Guimaraes así como por la gran mayoría de clubs españoles y festivales como Magma, Electrosplash o FIZ.<br/>Un catálogo que recuerda al presente pero que siempre mira al futuro y que gira entorno al rap de la costa oeste norteamericana, al sonido UK,  a la estética de club de los 90 y que se expresa mediante trap, jersey club, bass house, grime, footwork o techno uniéndolo a un sin fin de estilos.'
-    image: 
-    twitter_account: msvondisko
-    linkedin_account:
+#  - name: Ms von Disko
+#    bio: 'Desde hace unos años la dj y promotora Ms von Disko - fundadora y copropietaria del colectivo y club Face Down Ass Up - se ha establecido como una de las principales innovadoras de la escena bass. Su catálogo musical le ha llevado a ser residente de las fiestas Cream de Pacha Ibiza, viajar por ciudades europeas como Berlin, Bristol o Guimaraes así como por la gran mayoría de clubs españoles y festivales como Magma, Electrosplash o FIZ.<br/>Un catálogo que recuerda al presente pero que siempre mira al futuro y que gira entorno al rap de la costa oeste norteamericana, al sonido UK,  a la estética de club de los 90 y que se expresa mediante trap, jersey club, bass house, grime, footwork o techno uniéndolo a un sin fin de estilos.'
+#    image: 
+#    twitter_account: msvondisko
+#    linkedin_account:
 
 #List for sponsors
 sponsors_platinum:
