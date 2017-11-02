@@ -37,22 +37,9 @@
       <a href="#join-speakers" onclick = $("#menu-close").click(); >Únete a nuestras ponentes</a>
     </li>
     -->
-    <!-- Comparamos las fechas para despublicar el C4P en la fecha correcta -->
-    {% capture now %}{{ site.time | date: '%d/%m/%Y %T' }}{% endcapture %}
-    {% capture today %}{{ "today" | date: '%d/%m/%Y %T' }}{% endcapture %}
-    {% capture end_c4p %}{{ site.end_c4p | date: '%d/%m/%Y %T' }}{% endcapture %}
-    
-    {% if end_c4p > now %}
-    <!-- Si aun no se ha cerrado el C4P mantenemos la info para enviar la propuesta -->
-    <li>
-      <a href="#join-speakers" onclick = $("#menu-close").click(); >Únete a nuestras ponentes</a>
-    </li>
-    {% else if end_c4p < now %}
-    <!-- Si ya se ha cerrado el C4P ponemos que proximamente publicaremos la info de las propuestas elegidas -->
     <li>
       <a href="#list-speakers" onclick = $("#menu-close").click(); >Nuestras ponentes</a>
     </li>
-    {% endif %}
     
     <li>
       <a href="#mulleres_tech" onclick = $("#menu-close").click(); >Mulleres Tech</a>

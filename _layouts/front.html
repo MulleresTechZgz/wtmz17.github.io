@@ -13,16 +13,7 @@
   {% include countdown.html %}
   {% include code_of_conduct.html %}
   {% include event_info.html %}
-  <!-- Comparamos las fechas para despublicar el C4P en la fecha correcta -->
-  {% capture now %}{{ site.time | date: '%d/%m/%Y %T' }}{% endcapture %}
-  {% capture end_c4p %}{{ site.end_c4p | date: '%d/%m/%Y %T' }}{% endcapture %}
-  {% if end_c4p > now %}
-  <!-- Si aun no se ha cerrado el C4P mantenemos la info para enviar la propuesta -->
-  {% include join_speakers.html %}
-  {% else if end_c4p < now %}
-  <!-- Si ya se ha cerrado el C4P ponemos que proximamente publicaremos la info de las propuestas elegidas -->
   {% include list_speakers.html %}
-  {% endif %}
   
   {% include mulleres_tech.html %}
   {% include goals.html %}
