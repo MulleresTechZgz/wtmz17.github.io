@@ -118,11 +118,11 @@ speakers:
     image:
     twitter_account: veniabi
     linkedin_account: veronicaabizanda 
-#  - name: Marta Azanza
-#    bio: 
-#    image:
-#    twitter_account: 
-#    linkedin_account:
+  - name: Marta Azanza
+    bio: 'Periodista de formación y vocación. Después de años recorriendo periódicos y emisoras de todo Aragón, decidió que era el momento de montar su propio medio, que le ha dado las grandes alegrías de mi  vida (y algún que otro disgusto).<br/>Tras éxitos y fracasos, esta primavera empezó a llevar la Comunicación del Instituto Aragonés de Ciencias de la Salud.'
+    image:
+    twitter_account: MartaAzanza
+    linkedin_account: marta-azanza-8b985b29
   - name: Maria Berenguer
     bio: 'Scrum master de profesión, ingeniera informática de formación. Las metodologías ágiles, la actuación y el teatro son mi pasión. Durante años he trabajado en el desarrollo de software, y más específicamente en gestión de proyectos. Hace 6 años un amigo del trabajo me dijo: "María, tú eres ágil y todavía no lo sabes". Y desde ese momento me interesé por las metodologías ágiles, comencé a participar de la comunidad Agile Aragón, primero escuchando, y en seguida participando activamente, en coding dojos, charlas de introducción, talleres, cursos y cualquier tipo de "sarao" que se organizara. Soy aprendiz de Agile (siempre lo seré) y disfruto compartiendo las experiencias e inquietudes que tengo acerca de este mundo. Actualmente tengo la suerte de dedicarme profesionalmente a ello. He estado un año y medio en Mallorca trabajando como Scrum Master de equipos y agente de cambio. Ahora regreso a Zaragoza, y comienzo una nueva aventura como Scrum Master, en Vueling.'
     image:
