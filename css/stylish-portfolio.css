@@ -305,8 +305,9 @@ hr.small {
 
 .modal-body {
     display: table;
-    font-size: 1.2em;
-  padding: 0;
+    font-size: 17px;
+    line-height: 22px;
+    padding: 0;
     width: 100%;
 }
 
@@ -898,6 +899,7 @@ ul i {
 
 @media(max-width:768px) {
     .agenda-v2 table tr td:first-child {
+        font-size: 14px;
         text-align: left;
     }
     .agenda-v2 table {
@@ -905,9 +907,8 @@ ul i {
     }
 } 
 
-@media(max-width:414px) {
-    .agenda-v2 table {
-        width: 414px;
+@media(max-width:414px) {  
+    .agenda-v2 table td {
         font-size: 14px !important;
     }
 } 
@@ -927,7 +928,6 @@ ul i {
 
 .agenda-v2 .modal-body {
     display: block;
-    font-size: 17px;
     padding: 20px;
 }
 
@@ -936,9 +936,6 @@ ul i {
     border-bottom: none;
 }
 
-.speakers .modal-body {
-    font-size: 17px;
-}
 .table-nonfluid {
    width: auto !important;
 }
