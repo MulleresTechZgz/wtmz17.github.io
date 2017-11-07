@@ -118,17 +118,22 @@ speakers:
     image:
     twitter_account: veniabi
     linkedin_account: veronicaabizanda 
-# - name: Marta Azanza
-#   bio: 
-#   image:
-#   twitter_account: 
-#   linkedin_account:
-  - name: Maria Berenguer
+  - name: Isabel Agustín Lafuente
+    bio: 'Isabel Agustín Lafuente, 24 años y nacida en Zaragoza.<br/>Estudié el grado de Ingeniería Electrónica y Automática en la Universidad de Zaragoza motivada por conocer el funcionamiento de la tecnología. Tras finalizar mis estudios y conocer el mundo de la informática comencé ahí mi carrera profesional impresionada por los conocimientos técnicos de la gente que me rodea, abriéndome camino en un mundo de tecnología que jamás pude imaginar. Soy una enamorada del aprendizaje continuo y la enseñanza. Actualmente trabajo en adidas en el área de testing de software.'
+    image: img/ponentes/isabel_agustin.png
+    twitter_account: 
+    linkedin_account: isabel-agustin-lafuente-439833b8
+  - name: Marta Azanza Hernández
+    bio: 'Me llamo Marta y son periodista de formación y vocación. Después de años recorriendo periódicos y emisoras de todo Aragón, decidí que era el momento de montar mi propio medio, que me ha dado las grandes alegrías de mi  vida (y algún que otro disgusto).Tras éxitos y fracasos, esta primavera empecé a llevar la Comunicación del Instituto Aragonés de Ciencias de la Salud.'
+    image: 
+    twitter_account: MartaAzanza
+    linkedin_account: marta-azanza-8b985b29
+  - name: María Berenguer
     bio: 'Scrum master de profesión, ingeniera informática de formación. Las metodologías ágiles, la actuación y el teatro son mi pasión. Durante años he trabajado en el desarrollo de software, y más específicamente en gestión de proyectos. Hace 6 años un amigo del trabajo me dijo: "María, tú eres ágil y todavía no lo sabes". Y desde ese momento me interesé por las metodologías ágiles, comencé a participar de la comunidad Agile Aragón, primero escuchando, y en seguida participando activamente, en coding dojos, charlas de introducción, talleres, cursos y cualquier tipo de "sarao" que se organizara. Soy aprendiz de Agile (siempre lo seré) y disfruto compartiendo las experiencias e inquietudes que tengo acerca de este mundo. Actualmente tengo la suerte de dedicarme profesionalmente a ello. He estado un año y medio en Mallorca trabajando como Scrum Master de equipos y agente de cambio. Ahora regreso a Zaragoza, y comienzo una nueva aventura como Scrum Master, en Vueling.'
     image:
     twitter_account: merybere
     linkedin_account:
-  - name: Maria Blasco
+  - name: María Blasco
     bio: 'María Blasco (Huesca, 1987), Licenciada en Bellas Artes por la Universidad de Castilla-La-Mancha., actualmente Doctorando en Arte y Humanidades en la Escuela Internacional de Doctorado de la UCLM.<br/>Parte del Grupo de Investigación Interfaces y Nuevos Medios  (MIDE, UCLM), liderado por J.R. Alcalá donde realizan diversas investigaciones sobre New Media Art. Asimismo, como miembro del equipo de trabajo en el Proyecto de Excelencia MINECO que lleva por título “Archivo Español de Media Art”, ha realizado la catalogación y registro de todas las obras artísticas creadas o expuestas en Etopia Centro de Arte y Tecnología (Zaragoza) desde su apertura hasta la actualidad.'
     image:
     twitter_account: m_blascocubas
@@ -150,12 +155,12 @@ speakers:
     image:
     twitter_account: silviacasas
     linkedin_account:
-#  - name: Marisa Claver Baron
-#    bio: 
-#    image:
-#    twitter_account: marisa_claver
-#    linkedin_account:
-  - name: Valeria Corrales
+  - name: Marisa Claver Barón
+    bio: 'Nació en Zaragoza, estudió ingeniería industrial, especialidad eléctrica. Comenzó su trayectoria profesional en Madrid, regresando posteriormente a su ciudad natal.<br/>AENOR le solicitó establecer su Delegación de Aragón, en la que está al frente desde hace 20 años.<br/>Apasionada de las motos, siempre luchó para ser considerada por sus capacidades, sin condiciones de género.<br/>Ha participado en asociaciones y colegios profesionales con objeto de normalizar el papel de la mujer en roles asignados tradicionalmente a géneros masculinos.'
+    image: 
+    twitter_account: marisa_claver
+    linkedin_account:
+  - name: Valeria Corrales Chavarría
     bio: 'Soy una niña de Huesca, tengo 9 años. Me gusta mucho el deporte, juego a tenis y hago atletismo. <br/>Me encanta crear y construir cosas, hacer historias animadas con personajes inventados, programar juegos y robots, jugar con Minecraft y las mates. <br/>Escribo cosas en un blog y subo muchos vídeos de todo lo que voy haciendo a mi canal de Youtube.'
     image:
     twitter_account: valeriacch7
@@ -165,21 +170,21 @@ speakers:
     image:
     twitter_account: etopia_kids
     linkedin_account:
-#  - name: Maria Jesus Fernandez
-#    bio: 
-#    image:
-#    twitter_account: 
-#    linkedin_account:
-  - name: Raquel Garcia Escobedo
+  - name: María Jesus Fernández Ruiz
+    bio: 'María Jesús Fernández Ruiz es Jefa de la Oficina de Participación, Transparencia y Gobierno Abierto. Desde su inicio en 1994 se ocupa del desarrollo, dirección y gestión de la Sede Electrónica del Ayuntamiento de Zaragoza y desde 2012 es la responsable de la Plataforma de Gobierno Abierto y de las iniciativas relacionadas con Open Data en el Ayuntamiento de Zaragoza.  <br/>También es responsable de la gestión del Portal Corporativo, así como de la gestión de la información necesaria para dar una respuesta clara y concreta a las demandas que llegan del ciudadano a través del servicio 010. Actualmente también participa de manera activa en la “Comisión Técnica para la Implantación de la Administración Electrónica” en el Excmo Ayuntamiento de Zaragoza. <br/>Ejerce como ponente y formadora y ha participado en diferentes proyectos nacionales y europeos. A lo largo de su carrera ha recibido numerosos reconocimientos por su labor'
+    image: img/ponentes/maria_jesus_fernandez.jpg
+    twitter_account: 
+    linkedin_account:
+  - name: Raquel García Escobedo
     bio: 'Raquel García Escobedo, 31 años y nacida en Zaragoza.<br/>Soy programadora informática, co-fundadora de Crom Developer, monitora de tiempo Libre, Directora de Campamentos... Enamorada de la formación, y del trabajo con los niños y niñas.'
     image: img/ponentes/raquel_garcia.jpg
     twitter_account: CromDeveloper
     linkedin_account:
-  - name: Lucia Gomez Lopez
+  - name: Lucía Gómez López
     bio: 'Me llamo Lucía y siempre me ha gustado inventar cosas, así que estudié Ingeniería Informática con la idea de participar de esta gran revolución tecnológica que nos rodea. Trabajar mano a mano con diseñadores me hizo darme cuenta de que me gustaba más su trabajo que el mío, así que empecé a formarme por mi cuenta hasta que decidí dar un paso más y estudiar Diseño de productos digitales para cambiar de carrera profesional. Actualmente trabajo en Tuenti/Telefónica Digital como diseñadora UX y formo parte de la organización del IxDA en Madrid.'
     image: img/ponentes/lucia_gomez.jpg
     twitter_account: malakatonez
-    linkedin_account: 
+    linkedin_account: luciagomezlopez
   - name: Patricia Heredia Gil
     bio: 'Ingeniera de Telecomunicaciones por la Universidad de Zaragoza. Dedicada durante más de 8 años al diseño y desarrollo de equipos electrónicos para sistemas RTOS. Creadora  del proyecto MiniVinci, empresa en la que actualmente, imparte talleres a niños y adolescentes y ayuda a fomentar el interés por la tecnología en niñas y mujeres apoyando diversas iniciativas.'
     image:
@@ -200,17 +205,17 @@ speakers:
     image: img/ponentes/luisa_lahoz.jpeg
     twitter_account: 
     linkedin_account:
-  - name: Carmen Lopez
-    bio: 'Nací en Zaragoza hace 37 años. Estudié Ingeniería Informática en la Universidad de Zaragoza por casualidad... O quizás no: con 9 años ya hacía mis pinitos en Basic con mi Amstrad CPC 6128.<br/>Tengo un postgrado en Recursos Humanos y Operaciones por la Universidad Autónoma de Barcelona. Los últimos 10 años me dedicado a la consultoría interna en una multinacional farmacéutica. <br/>Hace un año decidí dar un giro de 180º a mi carrera y volver a "los orígenes". Ahora me dedico a la ciberseguridad, formándome en un área extensa y apasionante que está en continua evolución.'
-    image:
+  - name: Carmen López
+    bio: 'Originaria de Zaragoza, me licencié en Ingeniería Informática en su universidad casi por casualidad... O quizás no: con 9 años ya hacía mis pinitos en Basic con mi Amstrad CPC 6128.<br/>Durante 10 años fui consultora interna en una multinacional farmacéutica dando soporte desde IT al departamento de Recursos Humanos.<br/>Hace un año decidí dar un giro de 180º a mi carrera y volver a "los orígenes". Ahora me dedico a la ciberseguridad y la protección de datos, formándome en un área extensa y apasionante que está en continua evolución.'
+    image: img/ponentes/carmen_lopez.jpg
     twitter_account: carmenzta
-    linkedin_account:
+    linkedin_account: carmen-lópez-16a5824
 #  - name: María Pilar Lozano Bernal
 #    bio: 
 #    image:
 #    twitter_account: mplozano1
 #    linkedin_account:
-  - name: Irene Luzan Gallego
+  - name: Irene Luzán Gallego
     bio: 'Irene Luzán (1986, Huesca)<br/>CEO - SHU DIGITAL y Técnico de escáner 3d<br/>Desde pequeña, en contacto directo con el mundo de la escenografía y tematización  en la empresa familiar Tecmolde. Hace 15 años, Tecmolde apuesta por la tecnología 3d para desarrollar sus proyectos. Es aquí cuando surge la especialización en escáner 3d. Después de varios años de formación 3d compaginados con el trabajo de tematización en taller, surge la oportunidad de formar Shu Digital y sacar partido a todas las posibilidades que tiene el mundo 3d. '
     image: img/ponentes/irene_luzan.jpg
     twitter_account: 
@@ -220,20 +225,30 @@ speakers:
     image: img/ponentes/noemi_medina.jpg
     twitter_account: 
     linkedin_account:
-  - name: Marta Ortin Obon
+  - name: Belén Ortega
+    bio: 'Belén Ortega es desarrolladora backend en Centraldereservas.com, portal español de reserva de alojamiento online. Es Técnico Superior de Informática Empresarial, y tiene una amplia experiencia (más de 13 años) como developer en PHP, MySQL y Zend Framework. Actualmente, integrando las tecnologías de frontend en el portal de clientes. '
+    image: img/ponentes/belen_ortega.jpg
+    twitter_account: 
+    linkedin_account: 
+  - name: Marta Ortín Obon
     bio: 'Marta Ortín es investigadora postdoctoral en el Graphics and Imaging Lab de la Universidad de Zaragoza. Obtuvo el Máster en Ingeniería de Sistemas e Informática en 2012 en la Universidad de Zaragoza, y el Doctorado en Ingeniería Informática en 2016 en la misma universidad. Ha realizado estancias en la Universidad de Ferrara (Italia) y en Intel Mobile Communications (Munich, Alemania). Su investigación se centra en captura y modelado de apariencia de materiales, renderizado en tiempo real, y desarrollo de aplicaciones haciendo uso de nuevas tecnologías. '
     image: img/ponentes/marta_ortin.jpg
     twitter_account: 
     linkedin_account:
-#  - name: Mayte Ortin Puertolas
-#    bio: 'Diplomada en Estadística por la Universidad de Zaragoza.<br/>Actualmente Directora Gerente de Aragonesa de Servicios Telemáticos, entidad pública del Gobierno de Aragón responsable de las infraestructuras y servicios en  el ámbito de las tecnologías de la información y las telecomunicaciones.<br/>Su andadura profesional comenzó en 1999 en el sector de las TIC donde ha desempeñado funciones de dirección de negocio, gestión de proyectos e ingeniería del software. '
-##    image: 
-#    twitter_account: 
-#    linkedin_account:
-  - name: Marta Perez Campos
+  - name: Mayte Ortín Puertolas
+    bio: 'Diplomada en Estadística por la Universidad de Zaragoza.<br/>Actualmente Directora Gerente de Aragonesa de Servicios Telemáticos, entidad pública del Gobierno de Aragón responsable de las infraestructuras y servicios en  el ámbito de las tecnologías de la información y las telecomunicaciones.<br/>Su andadura profesional comenzó en 1999 en el sector de las TIC donde ha desempeñado funciones de dirección de negocio, gestión de proyectos e ingeniería del software. '
+    image: 
+    twitter_account: MayteOrtin
+    linkedin_account:
+  - name: Marta Pérez Campos
     bio: 'Estudié Bellas Artes en la Universidad de Zaragoza donde principalmente empleé como medio de expresión el video y la fotografía. Tras finalizar mis estudios, me trasladé a Berlin y comencé a interesarme en el arte digital, instalaciones interactivas y proyectos artísticos en los que se proponen nuevas formas de interacción y se cuestionan las existentes. Este interés me llevo a comenzar el master en artes digitales Interface Cultures en la Kunstuni de Linz (Austria) y a comenzar Ingeniería Informática por la UNED. Actualmente, estoy escribiendo mi trabajo fin de master, en el que las interferencias generadas en la comunicación humana son consideradas como motor e inspiración para crear nuevas interfaces.'
     image: img/ponentes/marta_perez.jpg
     twitter_account: 
+    linkedin_account:
+  - name: Cristina Pérez Galán
+    bio: 'Cristina Pérez Galán (Zaragoza, 1983) es Dra. en Historia Medieval y Máster en Comunicación y Periodismo por la Universidad de Zaragoza. Ha trabajado en diversos medios de comunicación (Cadena Ser, Aragón Televisión) y en la Universidad de Zaragoza. En Torresburriel Estudio se ocupa del research y el testing, y además es la responsable de UX Learn, la división de formación online de la compañía.'
+    image: img/ponentes/cristina_perez.png
+    twitter_account: cristinapg
     linkedin_account:
   - name: Pixel y Pincel
     bio: 'Pixel y Pincel es una empresa que estimula y potencia la creatividad a través de las nuevas tecnologías, para que todos aprendan a utilizarla como herramienta educación y comunicación. En Pixel y Pincel piensan que la creatividad es importante, por eso trabajan en ayudar a la gente a desarrollar la suya con talleres y además, ponen esa creatividad a disposición de empresas o particulares que la necesiten.'
@@ -244,6 +259,11 @@ speakers:
     bio: 'MªPilar Jiménez de Bagüés, María Pilar Lozano Bernal y María Luisa Sarsa Sarsa'
     image:
     twitter_account: RISArchers
+    linkedin_account:
+  - name: Paloma Royo Cascajares
+    bio: 'Graduada en Ingeniearía electrónica y automática en la universidad de Zaragoza. El interés por la tecnología y el querer afrontar nuevos retos me llevó al mundo del desarrollo software.Actualmente trabajo desarrollando aplicaciones móviles en adidas. No hay nada mejor que poder formarte y crecer profesionalmente en lo que te apasiona!.'
+    image:
+    twitter_account: plmrc_
     linkedin_account:
   - name: Diana Ruiz
     bio: 'Desde que de adolescente sufriera un derrame cerebral tuvo claro que quería dedicarse a mejorar la calidad de la vida diaria de cualquier tipo de pacientes. Diana Ruiz es ahora doctora en robótica y se ha dedicado a explorar la relación entre el cerebro y coordinación motora con las señales biológicas del cuerpo humano para aplicaciones de sistemas exoesqueléticos y neuroprotésicos.<br/>Ha completado su formación con estancias de investigación en universidades internacionales. Ha estado inmersa en proyectos en el área de neurorehabilitación, lo que le ha permitido trabajar activamente en equipos multidisciplinares y colaborar con Hospitales de referencia.<br/>Actualmente, Diana es COO en Exovite, donde ha encontrado en un lugar donde compatibilizar la investigación en señales biomédicas con su otra gran pasión, la de ser madre.'
@@ -260,7 +280,7 @@ speakers:
 #    image:
 #    twitter_account: marisasarsa
 #    linkedin_account:
-  - name: Maria Villaroya
+  - name: María Villaroya Gaudó
     bio: 'María Villarroya Gaudó, doctora en Ingeniería Electrónica y Profesora de Arquitectura y tecnología de Computadores de la Universidad de Zaragoza. Presidenta de AMIT-Aragón, Asociación de Mujeres Investigadoras y Tecnólogas, desde donde lleva más de una década trabajando por aumentar la presencia de mujeres en ingeniería, acercando la ingeniería y en particular la informática a la sociedad, a las chicas y niñas aragonesas con actividades como El Girl''s Day o Una ingeniera en cada cole. '
     image: img/ponentes/maria_villaroya.jpg
     twitter_account: mvgaudo
@@ -298,6 +318,11 @@ sponsors_platinum:
     image: img/patrocinadores/platinum/central_reservas.png
     web: https://www.centraldereservas.com/
     twitter: centralreservas
+  - name: Google
+    text: 
+    image: img/patrocinadores/platinum/google.png
+    web: https://www.google.es/
+    twitter: GoogleES
 
 sponsors_gold:
   #- name: Hiberus Tecnologia
@@ -337,11 +362,16 @@ sponsors_silver:
     image: img/patrocinadores/silver/asseco_spain.png
     web: https://es.asseco.com/
     twitter: assecoESP
+  - name: SiteGround
+    text: 
+    image: img/patrocinadores/silver/siteground.png
+    web: https://www.siteground.es/
+    twitter: SiteGround_ES
 
 sponsors_others:
   - name: Ambar
     text: 
-    image: img/patrocinadores/colaboradores/ambar.jpg
+    image: img/patrocinadores/colaboradores/ambar.png
     web: https://ambar.com
     twitter: cervezasambar
   - name: Semmantica
@@ -367,324 +397,268 @@ sponsors_others:
 
 # Agenda
 talks_track_1:
-  - time: 09:00-09:30
+  - time: 09:30-10:00
     track: all
     name: REGISTRO
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 09:30-10:00
+  - time: 10:00-10:30
     track: all
-    name: PRESENTACIÓN
+    name: 'PRESENTACIÓN: Laura Lacarra (Track 1)'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:00-10:25
+  - time: '10:30-10:55'
     track: 1
-    name: Más de 10 años acercando la tecnología a las chicas en Aragón
+    name: 'Experiencias de una ingeniero senior: del amperio a la gestión de equipos'
+    descrip: 'El contenido de la charla pretende a través de mi experiencia personal y partiendo de cómo una mujer con un título de ingeniería industrial en la mano se enfrenta al mercado laboral en el año 1991.<br/>En estos 26 años la sociedad y las empresas han cambiado tecnológicamente a pasos agigantados, pero los roles sociales, la gestión de los recursos humanos, la visibilidad de la mujer STEM no ha avanzado en igual proporción.<br/>¿Por qué a las niñas no les gustan las matemáticas? ¿Qué estamos haciendo mal? ¿Por qué seguimos en un ratio de puestos de dirección que no se corresponde con la preparación académica (y emocional)? ¿Qué factores influyen?<br/>Trataré de exponer qué experiencias he vivido o he visto en relación a ello, al objeto de ofrecer sugerencias para que la mujer tecnológica rompa su propio techo de cristal y ocupe el lugar que merece, no por el simple hecho de ser mujer, sino porque se están desperdiciando objetivamente sus grandes capacidades para el desarrollo de las empresas y la sociedad.'
+    speaker: Marisa Claver Barón
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 11:00-11:25
+    track: 1
+    name: 'Más de 10 Años acercando la tecnología a las chicas en Aragón'
     descrip: 'Será una síntesis de las actividades que desde AMIT-Aragón realizamos para acercar la ingeniería y la tecnología a la sociedad y en particular para que más chicas se animen a realizar estudios técnicos. Más de una década de experiencias, análisis y bastante trabajo.'
-    speaker: Maria Villaroya
+    speaker: María Villarroya Gaudó
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:25-10:45
+  - time: '11:30-11:40'
     track: 1
-    name: Platinum
-    descrip: 
-    speaker: 
+    name: 'Talento femenino en la gestión y dirección de proyectos y equipos'
+    descrip: 'Hay muchas mujeres en puestos directivos y estratégicos de la vida académica, profesional y política del momento.<br/>En esta charla profundizaremos en cómo las mujeres utilizan su talento peculiar en la gestión y dirección de proyectos y equipos'
+    speaker: Mayte Ortín Puertolas
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:45-11:05
-    track: 1
-    name: Platinum
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 11:05-11:20
-    track: 1
-    name: El "toque" Marie Curie
-    descrip: 
-    speaker: Mayte Ortí
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 11:20-12:00
+  - time: '11:45-12:15'
     track: all
     name: DESCANSO CAFÉ
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:00-12:25
+  - time: 12:15-12:40
     track: 1
-    name: No, este robot no lo ha hecho mi hermano
-    descrip: 
-    speaker: Valeria Corrales
+    name: 'Tecnología y diseño 3d aplicado a la escenografía'
+    descrip: 'Voy a explicar cómo se aplica a tecnología 3d a la escenografía y la tematización para cine y parques temáticos, entre otros. Explicaré cómo desarrollamos en Shu Digital los proyectos para su posterior fabricación mediante impresión 3d y robots de mecanizado. Mostraré los proyectos más importantes en los que hemos trabajado. Mi objetivo es compartir con todos y todas las infinitas posibilidades y aplicaciones que tiene la tecnología 3d dentro del mundo del arte y la creatividad.'
+    speaker: Irene Luzán Gallego
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:25-12:45
+  - time: 12:45-13:10
     track: 1
-    name: Platinum
-    descrip: 
-    speaker: 
+    name: 'Una sede electronica para la igualdad de oportunidades'
+    descrip: 'Como responsable de la web municipal en mi ponencia explicaré cómo se ha ido desarrollando la sede electrónica del Ayuntamiento de Zaragoza, en qué manera ha contribuido a la igualdad de oportunidades y se explicará también qué características y pilares la han sostenido a lo largo de las distintas etapas del proyecto.'
+    speaker: Maria Jesus Fernández Ruiz
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:45-13:05
+  - time: 13:15-13:40
     track: 1
-    name: Sistemas de navegación por satélite europeos
-    descrip: 'Hoy en día todos conocemos GPS y lo utilizamos en nuestro día a día. Pero, ¿sabemos qué es EGNOS? GPS tiene un inconveniente, no nos ofrece un posicionamiento íntegro y por tanto no puede utilizarse en aplicaciones críticas como en aviación (aterrizaje y despegue). Por eso, la Comisión Europea nos ofrece un sistema de navegación europeo gratuito que se llama EGNOS, que mejora la solución de GPS y ofrece Integridad para que pueda utilizarse en aplicaciones críticas. A parte, la Comisión Europea está actualmente desplegando el sistema Galileo, un sistema de posicionamiento global similar al americano GPS que incorporará diversas ventajas. Considerando todas las iniciativas de navegación por satélite que están desplegando todos los países (China, Rusia, Europa, Estados Unidos…), los receptores de la próxima década van a tener cientos posibilidades de posicionamiento por satélite!'
-    speaker: Elisabet Lacarra
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 13:05-13:30
-    track: 1
-    name: Cómo Youtube nos ayuda a conseguir nuestros sueños
-    descrip: 'Voy a hablar sobre como se puede aprender de todo a través de youtube de manera gratuita, porqué todo el mundo debería realizar un proyecto personal, la necesidad de tener foco para sacarle partido a estos recursos y sobre la necesidad de pedir ayuda.'
+    name: 'Cómo Youtube nos ayuda a conseguir nuestros sueños'
+    descrip: 'Voy a hablar sobre como se puede aprender de todo a través de youtube de manera gratuita, porqué todo el mundo debería realizar un proyecto personal, la necesidad de tener foco para sacarle partido a estos recursos y sobre la necesidad de pedir ayuda. '
     speaker: Lucia Sanchez
     bio_speaker: 
     twitter_speaker: 
-  - time: 13:30-13:55
+  - time: 13:45-14:10
     track: 1
-    name: Platinum
-    descrip: 
-    speaker: 
+    name: 'No, este robot no lo ha hecho mi hermano'
+    descrip: 'Todos tenemos una gran curiosidad científica cuando somos pequeños, pero debemos alimentarla para que se desarrolle.<br/>Ahora existen herramientas muy potentes para trabajar tecnología con niños. ¿Te da miedo? No hace falta tener un gran dominio de la materia, en esta charla mostraremos proyectos realizados por una niña de 9 años y animaremos a otras niñas a interesarse por el mundo de la tecnología. ¡Es algo muy divertido!'
+    speaker: Valeria Corrales Chavarría y Patricia Heredia Gil
     bio_speaker: 
     twitter_speaker: 
-  - time: 13:55-15:30
+  - time: 14:15-15:45
     track: all
     name: COMIDA
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 15:30-15:55
+  - time: 15:45-16:10
     track: 1
-    name: Directora de Aenor
-    descrip: 
-    speaker: Marisa Claver Baron
+    name: 'Cuando las mujeres coordinan una start up'
+    descrip: 'El ecosistema emprendedor, especialmente el relacionado con empresas de base tecnológica, es mayoritariamente masculino. Nuestra start-up ha pasado de estar gestionada por dos hombres entrados en los cuarenta con más de 20 años de experiencia, a estar coordinada por Cynthia y Diana, dos mujeres jóvenes sin casi experiencia. Cynthia es ingeniera informática, gráfica y emprendedora. Diana es doctora en robótica y madre. Las dos tenemos formas de ser diferentes pero que han encajado muy bien para lograr manejar con éxito a todo un equipo. Queremos contar nuestra experiencia, cómo afrontamos el traspaso de funciones, cómo se lo tomaron nuestros compañeros, qué logros hemos conseguido y en qué nos hemos equivocado.'
+    speaker: 'Diana Ruiz'
     bio_speaker: 
     twitter_speaker: 
-  - time: 15:55-16:20
+  - time: 16:15-16:25
     track: 1
-    name: Aprendiendo a que los ordenadores aprendan
+    name: 'Aprendiendo a que los ordenadores aprendan'
     descrip: 'Desde películas clásicas de ciencia ficción a los últimos artículos científicos, la inteligencia artificial es un concepto muy presente hoy en día. Pero: ¿cómo podemos enseñar a los ordenadores y cómo éstos aprenden? A día de hoy, todavía no sabemos como funciona al 100% nuestro cerebro ni cómo aprende, sin embargo, sabemos muy bien que los humanos aprendemos a base de ejemplos y repetición. El "aprendizaje automático" aplica esta misma técnica pero a los ordenadores, de manera que se están obteniendo mejores resultados que los que se conseguían hasta hace unos pocos años. Durante la charla presentaré el concepto de aprendizaje automático y "deep learning", mostraré casos de aplicación y alguna como de librerías y/o herramienta disponibles.'
     speaker: Ana Belén Cambra Linés
     bio_speaker: 
     twitter_speaker: 
-  - time: 16:20-16:45
+  - time: 16:30-16:55
     track: 1
-    name: Platinum
-    descrip: 
-    speaker: 
+    name: 'Mi viaje del desarrollo al diseño y todo lo que aprendí por el camino'
+    descrip: 'En los dos últimos años he reconvertido mi carrera profesional del desarrollo al diseño. Entender y participar en  el proceso de la creación del producto digital desde varios puntos de vista me ha hecho darme cuenta de cuantas cosas podemos mejorar en los equipos y los procesos de trabajo cambiando la mentalidad de "desarrollo vs diseño" a "desarrollo + diseño". En esta charla me gustaría compartir con vosotros mi experiencia así como algunos consejos que nos pueden ayudar en el trabajo del día a día.'
+    speaker: Lucía Gómez López
     bio_speaker: 
     twitter_speaker: 
-  - time: 16:45-17:05
-    track: 1
-    name: Mi viaje del desarrollo al diseño y todo lo que aprendí por el camino
-    descrip: 
-    speaker: Lucia Gomez Lopez
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 17:05-17:25
+  - time: 17:00-17:30
     track: all
     name: DESCANSO CAFÉ
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 17:25-17:50
+  - time: 17:30-17:55
     track: 1
-    name: Cambia la N de no puedo por la y de yo puedo
-    descrip: 
-    speaker: Mireia Cabañes
+    name: 'Educando a través de la tecnología'
+    descrip: 'Esta charla es la visión que yo tengo sobre cómo se puede educar a través de la tecnología, no solamente en conocimientos teóricos, sino también con experiencias, cercanía, sensaciones, valores... Cosa que siempre nos ha parecido fundamental.<br/>A través de las herramientas con las que trabajamos en la clase, conseguimos obtener tanto conocimientos acerca de programación, electrónica y demás, como fomentar el trabajo en equipo, la colaboración, la imaginación...<br/>Nuestra pretensión es que los niños no sean meros espectadores, sino que sean creadores de su propia realidad.'
+    speaker: Raquel García Escobedo
     bio_speaker: 
     twitter_speaker: 
-  - time: 17:50-18:15
+  - time: 18:00-18:25
     track: 1
-    name: Women in New Media Art
-    descrip: 'Parte del Grupo de Investigación Interfaces y Nuevos Medios  (MIDE, UCLM), liderado por J.R. Alcalá donde realizan diversas investigaciones sobre New Media Art. Asimismo, como miembro del equipo de trabajo en el Proyecto de Excelencia MINECO que lleva por título “Archivo Español de Media Art”, ha realizado la catalogación y registro de todas las obras artísticas creadas o expuestas en Etopia Centro de Arte y Tecnología (Zaragoza) desde su apertura hasta la actualidad.'
-    speaker: Maria Blasco
+    name: 'Mujeres en ciberseguridad: ¡cambiemos los números!'
+    descrip: 'La ciberseguridad está de moda. Casi cada día, los medios de comunicación se hacen eco de alguna noticia relacionada con la seguridad informática. Empresas y organizaciones de todo tipo son cada vez más conscientes de la importancia de una buena estrategia en la materia y están tomando medidas. Sin embargo, y a pesar del auge, hay pocos profesionales capacitados y el ratio de mujeres es desesperanzador: no supera el 10%<br/>¿Qué es realmente la ciberseguridad? ¿Qué podemos aportar las mujeres? ¿Cómo podemos hacerla más atractiva? ¿Es posible cambiar los números? ¡Hablemos!'
+    speaker: Carmen López
     bio_speaker: 
     twitter_speaker: 
-  - time: 18:15-18:40
-    track: 1
-    name: Cuando las mujeres coordinan una startup
-    descrip: 
-    speaker: Cynthia Galvez y Diana Ruiz
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 18:40-19:00
+  - time: 18:30-18:50
     track: all
-    name: MONOLOGOS
+    name: 'MONOLOGOS: RISArchers'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:00'
+  - time: '18:50-19:00'
     track: all
-    name: CIERRE
+    name: 'CIERRE: Staff WTM Zaragoza (Track 1)'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
 
 talks_track_2: 
-  - time: 09:00-09:30
+  - time: 09:30-10:00
     track: all
     name: REGISTRO
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 09:30-10:00
+  - time: 10:30-10:30
     track: all
     name: PRESENTACIÓN
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:00-10:25
+  - time: 10:30-10:55
     track: 2
-    name: Usos inesperados para objetos comunes
-    descrip: 
-    speaker: Marta Perez Campos
+    name: 'Cómo hacer un Think Aloud Test para mejorar tu producto digital'
+    descrip: 'Ponencia sobre el Think Aloud Test, un test de usabilidad con usuarios reales que busca mejorar un producto digital. Hablaremos de la importancia de realizar este tipo de test y de los pasos a seguir para su correcta realización.'
+    speaker: Veronica Abizanda
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:25-10:45
+  - time: '11:00-11:25'
     track: 2
-    name: 
-    descrip: 
-    speaker: 
+    name: 'Usos inesperados para objetos comunes'
+    descrip: 'Una aspiradora y un proyector que se convierten en instrumentos musicales, cajas de música que traducen un calendario en una melodía, un paraguas que muestra tu estado de ánimo o lámparas que a parte de alumbrar, te enseñan los dientes.<br/>En esta charla se presentarán proyectos de mujeres artistas que han intervenido objetos comunes y les han proporcionado un nuevo uso utilizando herramientas como Arduino y sus derivados. <br/>Muchas de ellas son estudiantes del master Interface Cultures de la Kunstuni de Linz. Sus proyectos se han presentado en performances, exposiciones, y la mayor parte de ellos han sido creados para que el público pueda interactuar con ellos y cuestionarse su uso. Algunas de las artistas son: Ilona Stütz, Julia del Río, Klimentina Hristova, Or Wolff o Yen Tzu Chang.'
+    speaker: Marta Pérez Campos
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:45-11:05
+  - time: 11:30-11:40
     track: 2
-    name: 
-    descrip: 
-    speaker: 
+    name: 'Cómo hacer que alguien de letras se interese por la ciencia a través de la tecnología'
+    descrip: 'Ahora me parece curiosa la frase de aquel profesor de F&Q que nos decía aquello de "sólo los tontos van a letras" ¡Y a mucha honra! Gracias a ser 100% de letras, hoy todo lo que veo me enamora. Y es eso lo que os quiero contar aquí: Cómo la tecnología puede conseguir que alguien de letras se enamore de la Ciencia'
+    speaker: Marta Azanza Hernández
     bio_speaker: 
     twitter_speaker: 
-  - time: 11:05-11:20
-    track: 2
-    name: Cómo hacer que alguien de letras se interese por la ciencia a través de la tecnología
-    descrip: 
-    speaker: Marta Azanza
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 11:20-12:00
+  - time: 11:45-12:15
     track: all
     name: DESCANSO CAFÉ
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:00-12:25
+  - time: 12:15-12:40
     track: 2
-    name: Marketing analítico:usando los datos para vender más
+    name: 'El dinosaurio y la jirafa: una historia de research en Torresburriel Estudio'
+    descrip: 'Partiendo del dibujo que Pablo, un niño de cinco años, me regaló mientras su madre hacía un card sorting, explicaré qué hacemos en Torresburriel Estudio: research, diseño y testing, además de formar cada año a más de 150 personas en Usabilidad desde UX Learn, la división de formación de Torresburriel Estudio.<br/>En la charla se pondrá de manifiesto también por qué ser un equipo multidisciplinar y diverso (¡somos más chicas que chicos!) nos hace diseñar mejores productos digitales, la importancia de la diversidad y los valores de la compañía.'
+    speaker: Cristina Pérez Galán (TORRESBURRIEL ESTUDIO)
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 12:45-13:10
+    track: 2
+    name: 'From zero to hero @ adidas'
+    descrip: 'adidas lanza su nueva aplicación móvil a nivel global, analizaremos todo el proceso de desarrollo así como los puntos clave, problemáticas y soluciones que hemos tomado en el camino. Cómo salir a producción sin que tu equipo muera en el intento.'
+    speaker: Isabel Agustín Lafuente y Paloma Royo Cascajares (ADIDAS)
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:15-13:40
+    track: 2
+    name: 'Sistemas de navegación por satélite europeos'
+    descrip: 'Hoy en día todos conocemos GPS y lo utilizamos en nuestro día a día. Pero, ¿sabemos qué es EGNOS? GPS tiene un inconveniente, no nos ofrece un posicionamiento íntegro y por tanto no puede utilizarse en aplicaciones críticas como en aviación (aterrizaje y despegue). Por eso, la Comisión Europea nos ofrece un sistema de navegación europeo gratuito que se llama EGNOS, que mejora la solución de GPS y ofrece Integridad para que pueda utilizarse en aplicaciones críticas. A parte, la Comisión Europea está actualmente desplegando el sistema Galileo, un sistema de posicionamiento global similar al americano GPS que incorporará diversas ventajas. Considerando todas las iniciativas de navegación por satélite que están desplegando todos los países (China, Rusia, Europa, Estados Unidos…), los receptores de la próxima década van a tener cientos posibilidades de posicionamiento por satélite!'
+    speaker: Elisabet Lacarra
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:45-14:10
+    track: 2
+    name: 'Marketing analítico:usando los datos para vender más'
     descrip: '¿Qué papel juegan los datos hoy en día en el marketing online?. Acompáñanos en este viaje para descubrir diferentes herramientas para obtener información y aprender a utilizarla para conseguir vender más en Internet. Hablaremos de cómo busca la gente en los buscadores, de publicidad online o de analítica web, para ver cómo cualquier proyecto web, por pequeño que sea, puede beneficiarse de esta información disponible y mejorar sus resultados.'
     speaker: Silvia Casas Cañadas
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:25-12:45
-    track: 2
-    name: 
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 12:45-13:05
-    track: 2
-    name: Tecnología y diseño 3D aplicado a escenografía y la tematización
-    descrip: 
-    speaker: Irene Luzan Gallego
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 13:05-13:30
-    track: 2
-    name: Educando a través de la tecnología
-    descrip: 'La charla que propuse es la visión que yo tengo sobre cómo se puede educar a través de la tecnología, no solamente en conocimientos teóricos, sino también con experiencias, cercanía, sensaciones, valores... Cosa que siempre nos ha parecido fundamental.<br/>A través de las herramientas con las que trabajamos en la clase, conseguimos obtener tanto conocimientos acerca de programación, electrónica y demás, como fomentar el trabajo en equipo, la colaboración, la imaginación...<br/>Nuestra pretensión es que los niños no sean meros espectadores, sino que sean creadores de su propia realidad.'
-    speaker: Raquel Garcia Escobedo
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 13:30-13:55
-    track: 2
-    name: 
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 13:55-15:30
+  - time: 14:15-15:45
     track: all
     name: COMIDA
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 15:30-15:55
+  - time: 15:45-16:10
     track: 2
-    name: 'Mujeres en ciberseguridad: ¡cambiemos los números!'
-    descrip: 
-    speaker: Carmen Lopez
+    name: 'Scrum my front: Cómo es mi día a día ágil como desarrolladora front'
+    descrip: '¿Quieres saber como se organiza el desarrollo ágil de una aplicación web? ¡Yo te lo cuento! Desde el backlog al MPV, de los prototipos a las integraciones... Todo mi día a día en 20 minutos.'
+    speaker: Noemi Medina (INTELYGENZ)
     bio_speaker: 
     twitter_speaker: 
-  - time: 15:55-16:20
+  - time: 16:15-16:25
     track: 2
-    name: Sin género de dudas, tecnología
+    name: 'Sin género de dudas, tecnología'
     descrip: 'Esta charla pretende abrir un espacio para reflexionar sobre cómo los estereotipos de género afectan a la actitud que toman las mujeres en el ámbito de la tecnología.'
     speaker: Luisa Lahoz Folguera
     bio_speaker: 
     twitter_speaker: 
-  - time: 16:20-16:45
+  - time: 16:30-16:55
     track: 2
-    name: 
-    descrip: 
-    speaker: 
+    name: 'Cómo empatizar con el usuario desde el backend'
+    descrip: 'Quiero compartir mi experiencia como backend en estos últimos años y como desde el backend podemos empalizar con el usuario con estas tres ideas:<br/>1. Cuida tus errores<br/>2. Guía a tus usuarios<br/>3. Muestra lo necesario'
+    speaker: Belén Ortega (CENTRAL DE RESERVAS)
     bio_speaker: 
     twitter_speaker: 
-  - time: 16:45-17:05
-    track: 2
-    name: Como llevar a cabo un Think Aloud Test
-    descrip: 'Ponencia sobre el Think Aloud Test, un test de usabilidad con usuarios reales que busca mejorar un producto digital. Hablaremos de la importancia de realizar este tipo de test y de los pasos a seguir para su correcta realización.'
-    speaker: Veronica Abizanda
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 17:05-17:25
+  - time: 17:00-17:30
     track: all
     name: DESCANSO CAFÉ
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 17:25-17:50
+  - time: 17:30-17:55
     track: 2
-    name: Web municipal
-    descrip: 
-    speaker: Maria Jesus Fernandez
+    name: '¿Cómo averiguamos si un bebé puede ver bien?'
+    descrip: 'Es muy difícil diagnosticar problemas visuales en bebés o niños muy pequeños porque no podemos comunicarnos con ellos. ¡Pero nosotros tenemos la solución! Utilizamos un dispositivo llamado eye tracker que nos permite saber a qué punto de la pantalla de un ordenador está mirando el niño. Gracias a esta tecnología, hemos diseñado varios test que nos permiten averiguar si los niños tienen problemas de vista.'
+    speaker: Marta Ortín Obon
     bio_speaker: 
     twitter_speaker: 
-  - time: 17:50-18:15
+  - time: 18:00-18:25
     track: 2
-    name: ¿Cómo averiguamos si un bebé puede ver bien?
+    name: 'Women in New Media Art - Etopia Archive'
     descrip: 
-    speaker: Marta Ortin Obon
+    speaker: María Blasco
     bio_speaker: 
     twitter_speaker: 
-  - time: 18:15-18:40
-    track: 2
-    name: 
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 18:40-19:00
+  - time: 18:30-18:50
     track: all
     name: MONOLOGOS
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:00'
+  - time: '18:50-19:00'
     track: all
     name: CIERRE
     descrip: 
@@ -692,78 +666,183 @@ talks_track_2:
     bio_speaker: 
     twitter_speaker: 
 
-workshops: 
-  - time: 09:00-09:30
+workshops_track_1: 
+  - time: 09:30-10:00
+    time_start: '09:30'
+    duration: 1
     track: all
     name: REGISTRO
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 09:30-10:00
+  - time: 10:00-10:30
+    time_start: '10:00'
+    duration: 1
     track: all
     name: PRESENTACIÓN
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:00-11:20
-    track: workshop
-    name: 'Taller: Pixel y pincel'
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 11:20-12:00
-    track: all
-    name: DESCANSO CAFÉ
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 12:00-13:55
-    track: workshop
-    name: Taller
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 13:55-15:30
-    track: all
-    name: COMIDA
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 15:30-17:05
-    track: workshop
-    name: Taller
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 17:05-17:25
-    track: all
-    name: DESCANSO CAFÉ
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: 17:25-18:40
+  - time: 10:30-11:30
+    time_start: '10:30'
+    duration: 1
     track: workshop
     name: 
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 18:40-19:00
+  - time: 11:30-13:00
+    time_start: '11:30'
+    duration: 1
+    track: workshop
+    name: 'Stop Motion para niñ@s & mayores'
+    descrip: 'En este taller de iniciación os enseñaremos a montaros un estudio de stop motion reciclando cosas de casa, así como las técnicas básicas para que podáis hacer vuestras propias películas de animación en familia mezclando manualidades, arte y tecnología, al más puro estilo Pixel y Pincel ;)'
+    speaker: Pixel y pincel
+    bio_speaker: 'Pixel y Pincel es una empresa que estimula y potencia la creatividad a través de las nuevas tecnologías, para que todos aprendan a utilizarla como herramienta educación y comunicación. En Pixel y Pincel piensan que la creatividad es importante, por eso trabajan en ayudar a la gente a desarrollar la suya con talleres y además, ponen esa creatividad a disposición de empresas o particulares que la necesiten.'
+    twitter_speaker: 
+  - time: 13:00-14:10
+    time_start: '13:00'
+    duration: 1
+    track: workshop
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 14:10-15:45
+    time_start: '14:10'
+    duration: 1
+    track: all
+    name: COMIDA
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 15:45-17:15
+    time_start: '15:45'
+    duration: 1
+    track: workshop
+    name: 'Impro agile para todos los publicos'
+    descrip: 'es una sesión de juegos de improvisación en grupo, orientados a mejorar las habilidades de comunicación verbal y no verbal, la observación y a trabajar los valores ágiles (http://agilemanifesto.org/).'
+    speaker: María Berenguer
+    bio_speaker: 'Scrum master de profesión, ingeniera informática de formación. Las metodologías ágiles, la actuación y el teatro son mi pasión. Durante años he trabajado en el desarrollo de software, y más específicamente en gestión de proyectos. Hace 6 años un amigo del trabajo me dijo: "María, tú eres ágil y todavía no lo sabes". Y desde ese momento me interesé por las metodologías ágiles, comencé a participar de la comunidad Agile Aragón, primero escuchando, y en seguida participando activamente, en coding dojos, charlas de introducción, talleres, cursos y cualquier tipo de "sarao" que se organizara. Soy aprendiz de Agile (siempre lo seré) y disfruto compartiendo las experiencias e inquietudes que tengo acerca de este mundo. Actualmente tengo la suerte de dedicarme profesionalmente a ello. He estado un año y medio en Mallorca trabajando como Scrum Master de equipos y agente de cambio. Ahora regreso a Zaragoza, y comienzo una nueva aventura como Scrum Master, en Vueling.'
+    twitter_speaker: 
+  - time: 17:15-18:30
+    time_start: '17:15'
+    duration: 1
+    track: workshop
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 18:30-18:50
+    time_start: '18:30'
+    duration: 1
     track: all
     name: MONOLOGOS
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:00'
+  - time: '18:50-19:00'
+    time_start: '18:5'
+    duration: 1
+    track: all
+    name: CIERRE
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+
+workshops_track_2: 
+  - time: 09:30-10:00
+    time_start: '09:30'
+    duration: 1
+    track: all
+    name: REGISTRO
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:00-10:30
+    time_start: '10:00'
+    duration: 1
+    track: all
+    name: PRESENTACIÓN
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 10:30-13:00
+    time_start: '10:30'
+    duration: 2
+    track: workshop
+    name: 'Diseño e impresión 3D con filamento termosensitivo'
+    descrip: 'Taller de diseño e impresión con filamento termocrómico para que las niñas y niños se hagan algo como una varita con la que saber por ejemplo si el colacao está demasiado caliente o el agua de la bañera antes de meterse.'
+    speaker: Etopia Kids
+    bio_speaker: 'ETOPIA_KIDS es el programa de aprendizaje y experimentación con arte, ciencia y tecnologías creativas de código abierto que la Fundación Zaragoza Ciudad del Conocimiento desarrolla para Etopia Centro de Arte y Tecnología. Dirigido a niños y niñas de edades comprendidas entre los 6 y los 14 años, comenzó su andadura en 2013 con la Colonia Urbana de verano. ETOPIA_KIDS es un proyecto que no ha parado de crecer y bajo cuya marca se desarrolla también el programa ETOPIA_KIDS FAMILY, con actividades y talleres durante todo el año para disfrutar en familia, y el AULA DIWOK, un espacio de trabajo cooperativo para chicos y chicas de entre 13 y 18 años.'
+    twitter_speaker: 
+  - time: 10:00-11:30
+    time_start: '11:30'
+    duration: 0
+    track: workshop
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 13:00-14:10
+    time_start: '13:00'
+    duration: 1
+    track: workshop
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 14:10-15:45
+    time_start: '14:10'
+    duration: 1
+    track: all
+    name: COMIDA
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 15:45-17:00
+    time_start: '15:30'
+    duration: 2
+    track: workshop
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 17:00-18:30
+    time_start: '17:00'
+    duration: 0
+    track: workshop
+    name: 
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: 18:30-18:50
+    time_start: '18:30'
+    duration: 1
+    track: all
+    name: MONOLOGOS
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '18:50-19:00'
+    time_start: '18:50'
+    duration: 1
     track: all
     name: CIERRE
     descrip: 
