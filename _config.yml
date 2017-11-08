@@ -530,6 +530,13 @@ talks_track_1:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
+  - time: '19:00-20:00'  
+    track: all
+    name: 'Ms von Disko (DJ Set) y NETWORKING'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
 
 talks_track_2: 
   - time: 09:30-10:00
@@ -665,6 +672,13 @@ talks_track_2:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
+  - time: '19:00-20:00'  
+    track: all
+    name: 'DJ Set y NETWORKING'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
 
 workshops_track_1: 
   - time: 09:30-10:00
@@ -757,6 +771,13 @@ workshops_track_1:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
+  - time: '19:00-20:00'  
+    track: all
+    name: 'DJ Set y NETWORKING'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
 
 workshops_track_2: 
   - time: 09:30-10:00
@@ -845,6 +866,13 @@ workshops_track_2:
     duration: 1
     track: all
     name: CIERRE
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '19:00-20:00'  
+    track: all
+    name: 'DJ Set y NETWORKING'
     descrip: 
     speaker: 
     bio_speaker: 
