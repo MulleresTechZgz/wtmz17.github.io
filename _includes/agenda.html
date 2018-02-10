@@ -43,6 +43,9 @@
                   {% assign talk_track_1_descrip = talk_track_1.descrip | strip_newlines %}
                   {% assign talk_track_2_descrip = talk_track_2.descrip | strip_newlines %}
 
+                  {% assign talk_track_1_youtube = talk_track_1.url_youtube | strip_newlines %}
+                  {% assign talk_track_2_youtube = talk_track_2.url_youtube | strip_newlines %}
+
                   {% if talk_track_1_name == "" %}
 
                 <td class="empty"></td>
@@ -71,6 +74,10 @@
                           <p><strong>{{ talk_track_1.speaker }}</strong></p>
                           <!--<hr class="small">
                           <p>{{ talk_track_1.bio_speaker }}</p>-->
+                          {% if talk_track_1_youtube != ""  %}
+                          <hr class="small">
+                          <iframe width="90%" height="315" src="https://www.youtube.com/embed/{{ talk_track_1_youtube }}"  allowfullscreen></iframe>
+                          {% endif %}
                           <div class="visible-xs-block text-center">
                             <button type="button" class="btn btn-default" data-dismiss="modal">CERRAR</button>
                           </div>
@@ -110,6 +117,10 @@
                           <p><strong>{{ talk_track_2.speaker }}</strong></p>
                           <!--<hr class="small"/>
                           <p>{{ talk_track_2.bio_speaker }}</p>-->
+                          {% if talk_track_2_youtube != ""  %}
+                          <hr class="small">
+                          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ talk_track_2_youtube }}"  allowfullscreen></iframe>
+                          {% endif %}
                           <div class="visible-xs-block text-center">
                             <button type="button" class="btn btn-default" data-dismiss="modal">CERRAR</button>
                           </div>

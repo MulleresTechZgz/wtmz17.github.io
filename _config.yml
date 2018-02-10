@@ -418,6 +418,7 @@ talks_track_1:
     speaker: Marisa Claver Barón
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: BDHyZMftnrQ
   - time: 11:00-11:25
     track: 1
     name: 'Más de 10 Años acercando la tecnología a las chicas en Aragón'
@@ -425,6 +426,7 @@ talks_track_1:
     speaker: María Villarroya Gaudó
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: nRLoexIesw4
   - time: '11:30-11:40'
     track: 1
     name: 'Talento femenino en la gestión y dirección de proyectos y equipos'
@@ -432,6 +434,7 @@ talks_track_1:
     speaker: Mayte Ortín Puertolas
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: kWmYkB5kqkg
   - time: '11:45-12:15'
     track: all
     name: DESCANSO CAFÉ
@@ -446,6 +449,7 @@ talks_track_1:
     speaker: Irene Luzán Gallego
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: IlhHkdoMr8A
   - time: 12:45-13:10
     track: 1
     name: 'Una sede electronica para la igualdad de oportunidades'
@@ -453,6 +457,7 @@ talks_track_1:
     speaker: Maria Jesus Fernández Ruiz
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: zo1hw8nFQXs
   - time: 13:15-13:40
     track: 1
     name: 'Cómo Youtube nos ayuda a conseguir nuestros sueños'
@@ -460,6 +465,7 @@ talks_track_1:
     speaker: Lucia Sanchez
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: oxWFVjHe5j0
   - time: 13:45-14:10
     track: 1
     name: 'No, este robot no lo ha hecho mi hermano'
@@ -467,6 +473,7 @@ talks_track_1:
     speaker: Valeria Corrales Chavarría y Patricia Heredia Gil
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: 8Uw7lmBJqEI
   - time: 14:15-15:45
     track: all
     name: COMIDA
@@ -481,6 +488,7 @@ talks_track_1:
     speaker: 'Diana Ruiz'
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: 8BaX-X2IEDc
   - time: 16:15-16:25
     track: 1
     name: 'Aprendiendo a que los ordenadores aprendan'
@@ -488,6 +496,7 @@ talks_track_1:
     speaker: Ana Belén Cambra Linés
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: wZA-lEGBHw8
   - time: 16:30-16:55
     track: 1
     name: 'Mi viaje del desarrollo al diseño y todo lo que aprendí por el camino'
@@ -495,6 +504,7 @@ talks_track_1:
     speaker: Lucía Gómez López
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: dnBzNy1vEsY
   - time: 17:00-17:30
     track: all
     name: DESCANSO CAFÉ
@@ -509,6 +519,7 @@ talks_track_1:
     speaker: Raquel García Escobedo
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: hTruhnWlL74
   - time: 18:00-18:25
     track: 1
     name: 'Mujeres en ciberseguridad: ¡cambiemos los números!'
@@ -516,6 +527,7 @@ talks_track_1:
     speaker: Carmen López
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: A861SkO4AbE
   - time: 18:30-18:50
     track: all
     name: 'MONOLOGOS: RISArchers'
@@ -560,6 +572,7 @@ talks_track_2:
     speaker: Veronica Abizanda
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: PFdNgNEzvfU
   - time: '11:00-11:25'
     track: 2
     name: 'Usos inesperados para objetos comunes'
@@ -567,6 +580,7 @@ talks_track_2:
     speaker: Marta Pérez Campos
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: -82CNBwnyZM
   - time: 11:30-11:40
     track: 2
     name: 'Cómo hacer que alguien de letras se interese por la ciencia a través de la tecnología'
@@ -574,6 +588,7 @@ talks_track_2:
     speaker: Marta Azanza Hernández
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: cDsk001C1JQ
   - time: 11:45-12:15
     track: all
     name: DESCANSO CAFÉ
@@ -588,6 +603,7 @@ talks_track_2:
     speaker: Cristina Pérez Galán (TORRESBURRIEL ESTUDIO)
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: 0tr7R4D7Rsk
   - time: 12:45-13:10
     track: 2
     name: 'From zero to hero @ adidas'
@@ -595,6 +611,7 @@ talks_track_2:
     speaker: Isabel Agustín Lafuente y Paloma Royo Cascajares (ADIDAS)
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: vrCoPgcBJ_U
   - time: 13:15-13:40
     track: 2
     name: 'Sistemas de navegación por satélite europeos'
@@ -602,6 +619,7 @@ talks_track_2:
     speaker: Elisabet Lacarra
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: -4Fbhb0eqf0
   - time: 13:45-14:10
     track: 2
     name: 'Marketing analítico:usando los datos para vender más'
@@ -609,6 +627,7 @@ talks_track_2:
     speaker: Silvia Casas Cañadas
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: _A3JUdtZlyI
   - time: 14:15-15:45
     track: all
     name: COMIDA
@@ -623,6 +642,7 @@ talks_track_2:
     speaker: Noemi Medina (INTELYGENZ)
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: DCdkrHpPsS4
   - time: 16:15-16:25
     track: 2
     name: 'Sin género de dudas, tecnología'
@@ -630,6 +650,7 @@ talks_track_2:
     speaker: Luisa Lahoz Folguera
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: 3xlM-zn1wQM
   - time: 16:30-16:55
     track: 2
     name: 'Cómo empatizar con el usuario desde el backend'
@@ -637,6 +658,7 @@ talks_track_2:
     speaker: Belén Ortega (CENTRAL DE RESERVAS)
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: krdJLwvze6s
   - time: 17:00-17:30
     track: all
     name: DESCANSO CAFÉ
@@ -651,6 +673,7 @@ talks_track_2:
     speaker: Marta Ortín Obon
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: Mb5YqL_umoA
   - time: 18:00-18:25
     track: 2
     name: 'Women in New Media Art - Etopia Archive'
@@ -658,6 +681,7 @@ talks_track_2:
     speaker: María Blasco
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: EThrVOIE77k
   - time: 18:30-18:50
     track: all
     name: MONOLOGOS
